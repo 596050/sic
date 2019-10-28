@@ -1,0 +1,33 @@
+{
+  "name": "sic-list",
+  "version": "",
+  "description": "Standard industrial classification list based on the excellent country-list package",
+  "main": "sic-list.js",
+  "files": [
+    "data.json"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^13.1.0",
+    "tap": "^14.6.1"
+  },
+  "scripts": {
+    "pretest": "standard",
+    "test": "tap test/*.js --100"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "standard industrial classification",
+    "sic"
+  ],
+  "author": "",
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
