@@ -4,7 +4,8 @@ module.exports = {
   entry: "./sic-list.js",
   output: {
     filename: "main.js",
-    path: path.resolve(__dirname, "dist")
+    path: path.resolve(__dirname, "dist"),
+    libraryTarget: "commonjs2"
   },
   mode: "development",
   devtool: "source-map",
