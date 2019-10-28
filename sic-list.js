@@ -1,55 +1,26 @@
 "use strict";
 
-var data = require("./data.json");
+import data from "./data.json";
 
-var descriptionMap = {};
-var codeMap = {};
+const descriptionMap = {};
+const codeMap = {};
 data.forEach(mapCodeAndDescription);
 
-function mapCodeAndDescription(item) {
+const mapCodeAndDescription = item => {
   descriptionMap[item.description.toLowerCase()] = item.code;
-  codeMap[item.code.toLowerCase()] = item.description;
-}
-
-exports.overwrite = function overwrite(descriptions) {
-  if (!descriptions || !descriptions.length) return;
-  descriptions.forEach(function(item) {
-    var foundIndex = data.findIndex(function(item) {
-      return item.code === item.code;
-    });
-    data[foundIndex] = item;
-    mapCodeAndDescription(item);
-  });
+  codeMap[item.code] = item.description;
 };
 
-exports.getCode = function getCode(description) {
-  return descriptionMap[description.toLowerCase()];
-};
+export const getCode = description => descriptionMap[description.toLowerCase()];
 
-exports.getCodes = function getCodes() {
-  return data.map(function(item) {
-    return item.code;
-  });
-};
+export const getCodes = () => data.map(item => item.code);
 
-exports.getDescription = function getDescription(code) {
-  return codeMap[code.toLowerCase()];
-};
+export const getCodeList = () => codeMap;
 
-exports.getDescriptions = function getDescriptions() {
-  return data.map(function(item) {
-    return item.description;
-  });
-};
+export const getDescription = code => codeMap[code.toLowerCase()];
 
-exports.getCodeList = function getCodeList() {
-  return codeMap;
-};
+export const getDescriptions = () => data.map(item => item.description);
 
-exports.getDescriptionList = function getDescriptionList() {
-  return descriptionMap;
-};
+export const getDescriptionList = () => descriptionMap;
 
-exports.getData = function getData() {
-  return data;
-};
+export const getData = () => data;

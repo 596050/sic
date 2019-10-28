@@ -1,6 +1,6 @@
 {
   "name": "sic-list",
-  "version": "",
+  "version": "0.1.0",
   "description": "Standard industrial classification list based on the excellent country-list package",
   "main": "sic-list.js",
   "files": [
@@ -8,12 +8,13 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "standard": "^13.1.0",
-    "tap": "^14.6.1"
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
   },
   "scripts": {
-    "pretest": "standard",
-    "test": "tap test/*.js --100"
+    "build": "webpack",
+    "build-dev": "",
+    "test": ""
   },
   "repository": {
     "type": "git",
