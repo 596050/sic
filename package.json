@@ -1,6 +1,6 @@
 {
   "name": "sic-list",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Standard industrial classification list based on the excellent country-list package",
   "main": "sic-list.js",
   "files": [
@@ -31,8 +31,5 @@
   "author": "",
   "contributors": [],
   "license": "MIT",
-  "bugs": {
-    "url": ""
-  },
-  "homepage": ""
+  "homepage": "https://github.com/596050/sic"
 }
