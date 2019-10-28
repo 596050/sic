@@ -2,8 +2,7 @@
   "name": "sic-list",
   "version": "0.2.2",
   "description": "Standard industrial classification list based on the excellent country-list package",
-  "main": "./dist/main.js",
-  "files": [],
+  "main": "dist/main.js",
   "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.6.4",
