@@ -3,6 +3,9 @@
   "version": "0.2.3",
   "description": "Standard industrial classification list based on the excellent country-list package",
   "main": "dist/main.js",
+  "files": [
+    "dist/main.js"
+  ],
   "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.6.4",
