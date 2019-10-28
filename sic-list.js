@@ -4,12 +4,13 @@ import data from "./data.json";
 
 const descriptionMap = {};
 const codeMap = {};
-data.forEach(mapCodeAndDescription);
 
 const mapCodeAndDescription = item => {
   descriptionMap[item.description.toLowerCase()] = item.code;
   codeMap[item.code] = item.description;
 };
+
+data.forEach(mapCodeAndDescription);
 
 export const getCode = description => descriptionMap[description.toLowerCase()];
 
