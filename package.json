@@ -8,13 +8,14 @@
   ],
   "dependencies": {},
   "devDependencies": {
+    "jest": "^24.9.0",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.9"
   },
   "scripts": {
     "build": "webpack",
     "build-dev": "",
-    "test": ""
+    "test": "jest"
   },
   "repository": {
     "type": "git",
