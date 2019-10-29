@@ -18,7 +18,7 @@ export const getCodes = () => data.map(item => item.code);
 
 export const getCodeList = () => codeMap;
 
-export const getDescription = code => codeMap[code.toLowerCase()];
+export const getDescription = code => codeMap[code];
 
 export const getDescriptions = () => data.map(item => item.description);
 
