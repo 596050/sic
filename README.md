@@ -1,6 +1,6 @@
 # sic-list
 
-Maps Standard Industial Classification codes to English descriptions and vice versa.
+Maps Standard Industial Classification (SIC) codes to English descriptions and vice versa.
 
 https://www.npmjs.com/package/sic-list
 
