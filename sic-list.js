@@ -25,3 +25,14 @@ export const getDescriptions = () => data.map(item => item.description);
 export const getDescriptionList = () => descriptionMap;
 
 export const getData = () => data;
+
+export const overwrite = sicArray => {
+  if (!sicArray || !sicArray.length) return;
+  sicArray.forEach(sic => {
+    const foundIndex = data.findIndex(item => item.code === sic.code);
+    if (foundIndex !== -1) {
+      data[foundIndex] = sic;
+    }
+    mapCodeAndDescription(sic);
+  });
+};
