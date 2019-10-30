@@ -16,6 +16,8 @@ const { getCode, getDescription } = require("sic-list");
 
 console.log(getDescription("43290")); // "Other construction installation"
 
+console.log(getDescription(43290)); // "Other construction installation"
+
 console.log(getCode("Operation of rail freight terminals")); // "52211"
 
 console.log(getCode("01101000 01100101 01101100 01101100 01101111")); // undefined

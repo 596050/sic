@@ -18,7 +18,7 @@ export const getCodes = () => data.map(item => item.code);
 
 export const getCodeList = () => codeMap;
 
-export const getDescription = code => codeMap[code];
+export const getDescription = code => codeMap[String(code)];
 
 export const getDescriptions = () => data.map(item => item.description);
 
@@ -32,7 +32,7 @@ export const overwrite = sicArray => {
     const foundIndex = data.findIndex(item => item.code === sic.code);
     if (foundIndex !== -1) {
       data[foundIndex] = sic;
+      mapCodeAndDescription(sic);
     }
-    mapCodeAndDescription(sic);
   });
 };

@@ -42,8 +42,14 @@ describe("getCodeList", () => {
 });
 
 describe("getDescription", () => {
-  test("returns description for given code", () => {
+  test("returns description for given code of type string", () => {
     const code = "20160";
+    const result = "Manufacture of plastics in primary forms";
+    expect(getDescription(code)).toBe(result);
+  });
+
+  test("returns description for given code of type number", () => {
+    const code = 20160;
     const result = "Manufacture of plastics in primary forms";
     expect(getDescription(code)).toBe(result);
   });
