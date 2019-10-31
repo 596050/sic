@@ -49,6 +49,8 @@ All input is case-insensitive.
 
 Expects an array of sic objects containing `code` and `description` properties.
 
+Replaces a description for a given code.
+
 ```js
 [
   {

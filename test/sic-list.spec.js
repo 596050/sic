@@ -4,7 +4,8 @@ import {
   getCodeList,
   getDescription,
   getDescriptions,
-  getDescriptionList
+  getDescriptionList,
+  overwrite
 } from "../sic-list";
 
 import data from "../data.json";
@@ -72,5 +73,27 @@ describe("getDescriptionList", () => {
       {}
     );
     expect(JSON.stringify(getDescriptionList())).toBe(JSON.stringify(result));
+  });
+});
+
+describe("overwrite", () => {
+  test("overwrite description for given codes of type string", () => {
+    const code = "01210";
+    const oldDescription = "Growing of grapes";
+    const newDescription = "Growing of white, red and black grapes";
+    const correctedData = [{ code: code, description: newDescription }];
+    expect(getDescription(code)).toBe(oldDescription);
+    overwrite(correctedData);
+    expect(getDescription(code)).toBe(newDescription);
+  });
+
+  test("overwrite description for given codes of type number", () => {
+    const code = 27310;
+    const oldDescription = "Manufacture of fibre optic cables";
+    const newDescription = "Manufacture of fibre optic cables made with glass";
+    const correctedData = [{ code: code, description: newDescription }];
+    expect(getDescription(code)).toBe(oldDescription);
+    overwrite(correctedData);
+    expect(getDescription(code)).toBe(newDescription);
   });
 });
