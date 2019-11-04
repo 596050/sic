@@ -1,5 +1,8 @@
 # sic-list
 
+![Travis (.org)](https://img.shields.io/travis/596050/sic)
+![Codecov](https://img.shields.io/codecov/c/github/596050/sic?token=555be04c-ccfa-41c4-8b86-d3f887213890)
+
 Maps Standard Industial Classification (SIC) codes to English descriptions and vice versa.
 
 https://www.npmjs.com/package/sic-list

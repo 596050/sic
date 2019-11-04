@@ -21,6 +21,10 @@
     "build-dev": "",
     "test": "jest"
   },
+  "jest": {
+    "coverageDirectory": "./coverage/",
+    "collectCoverage": true
+  },
   "repository": {
     "type": "git",
     "url": ""
