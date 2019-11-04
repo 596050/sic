@@ -16,7 +16,7 @@
     "webpack-cli": "^3.3.9"
   },
   "scripts": {
-    "build": "webpack",
+    "build": "webpack -p --config ./webpack.production.config.js",
     "build-dev": "",
     "test": "jest"
   },
