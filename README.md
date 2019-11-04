@@ -4,8 +4,6 @@ Maps Standard Industial Classification (SIC) codes to English descriptions and v
 
 https://www.npmjs.com/package/sic-list
 
-<!-- Integration of some CI -->
-
 ## Example
 
 ```js
