@@ -108,7 +108,7 @@ or
 yarn add sic-list
 ```
 
-Install types
+For typescript
 
 ```cli
 npm install @types/sic-list
