@@ -7,7 +7,9 @@ Maps Standard Industial Classification (SIC) codes to English descriptions and v
 
 https://www.npmjs.com/package/sic-list
 
-Available in typescript https://www.npmjs.com/package/@types/sic-list
+Available in typescript
+
+https://www.npmjs.com/package/@types/sic-list
 
 ## Example
 
@@ -106,7 +108,7 @@ or
 yarn add sic-list
 ```
 
-```typescript
+```cli
 npm install @types/sic-list
 
 or
