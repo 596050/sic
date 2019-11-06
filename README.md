@@ -7,6 +7,8 @@ Maps Standard Industial Classification (SIC) codes to English descriptions and v
 
 https://www.npmjs.com/package/sic-list
 
+Available in typescript https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/sic-list
+
 ## Example
 
 ```js
