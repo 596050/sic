@@ -48,12 +48,6 @@ describe("getDescription", () => {
     const result = "Manufacture of plastics in primary forms";
     expect(getDescription(code)).toBe(result);
   });
-
-  test("returns description for given code of type number", () => {
-    const code = 20160;
-    const result = "Manufacture of plastics in primary forms";
-    expect(getDescription(code)).toBe(result);
-  });
 });
 
 describe("getDescriptions", () => {
@@ -81,16 +75,6 @@ describe("overwrite", () => {
     const code = "01210";
     const oldDescription = "Growing of grapes";
     const newDescription = "Growing of white, red and black grapes";
-    const correctedData = [{ code: code, description: newDescription }];
-    expect(getDescription(code)).toBe(oldDescription);
-    overwrite(correctedData);
-    expect(getDescription(code)).toBe(newDescription);
-  });
-
-  test("overwrite description for given codes of type number", () => {
-    const code = 27310;
-    const oldDescription = "Manufacture of fibre optic cables";
-    const newDescription = "Manufacture of fibre optic cables made with glass";
     const correctedData = [{ code: code, description: newDescription }];
     expect(getDescription(code)).toBe(oldDescription);
     overwrite(correctedData);

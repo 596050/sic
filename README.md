@@ -16,9 +16,8 @@ https://www.npmjs.com/package/@types/sic-list
 ```js
 const { getCode, getDescription } = require("sic-list");
 
+// codes must be a string
 console.log(getDescription("43290")); // "Other construction installation"
-
-console.log(getDescription(43290)); // "Other construction installation"
 
 console.log(getCode("Operation of rail freight terminals")); // "52211"
 
