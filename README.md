@@ -108,6 +108,8 @@ or
 yarn add sic-list
 ```
 
+Install types
+
 ```cli
 npm install @types/sic-list
 
