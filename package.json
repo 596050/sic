@@ -1,6 +1,6 @@
 {
   "name": "sic-list",
-  "version": "0.6.6",
+  "version": "0.6.7",
   "description": "Standard industrial classification list based on the excellent country-list package",
   "main": "dist/index.js",
   "files": [
