@@ -214,9 +214,9 @@
   { "code": "13921", "description": "Manufacture of soft furnishings" },
   {
     "code": "13922",
-    "description": "manufacture of canvas goods, sacks, etc."
+    "description": "Manufacture of canvas goods, sacks, etc."
   },
-  { "code": "13923", "description": "manufacture of household textiles" },
+  { "code": "13923", "description": "Manufacture of household textiles" },
   {
     "code": "13931",
     "description": "Manufacture of woven or tufted carpets and rugs"
@@ -1782,5 +1782,5 @@
     "code": "99000",
     "description": "Activities of extraterritorial organizations and bodies"
   },
-  { "code": "99999", "description": "Dormant Company" }
+  { "code": "99999", "description": "Dormant company" }
 ]
