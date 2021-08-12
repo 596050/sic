@@ -1,6 +1,6 @@
-"use strict";
+'use strict';
 
-import data from "./data.json";
+import data from './data.json';
 
 const descriptionMap = {};
 const codeMap = {};

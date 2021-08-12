@@ -3,7 +3,8 @@
 ![Travis (.org)](https://img.shields.io/travis/596050/sic)
 ![Codecov](https://img.shields.io/codecov/c/github/596050/sic?token=555be04c-ccfa-41c4-8b86-d3f887213890)
 
-Maps Standard Industial Classification (SIC) codes to English descriptions and vice versa.
+Maps Standard Industrial Classification (SIC) codes to English descriptions and
+vice versa.
 
 https://www.npmjs.com/package/sic-list
 
@@ -14,26 +15,26 @@ https://www.npmjs.com/package/@types/sic-list
 ## Example
 
 ```js
-const { getCode, getDescription } = require("sic-list");
+const { getCode, getDescription } = require('sic-list');
 
 // codes must be strings
-console.log(getDescription("43290")); // "Other construction installation"
+console.log(getDescription('43290')); // "Other construction installation"
 
-console.log(getCode("Operation of rail freight terminals")); // "52211"
+console.log(getCode('Operation of rail freight terminals')); // "52211"
 
-console.log(getCode("01101000 01100101 01101100 01101100 01101111")); // undefined
+console.log(getCode('01101000 01100101 01101100 01101100 01101111')); // undefined
 ```
 
 How to change the description for a code
 
 ```js
-const { overwrite, getDescription } = require("sic-list");
+const { overwrite, getDescription } = require('sic-list');
 
 overwrite([
-  { code: "01230", description: "Growing of citrus fruits and wild mushrooms" }
+  { code: '01230', description: 'Growing of citrus fruits and wild mushrooms' },
 ]);
 
-console.log(getDescription("01230")); // "Growing of citrus fruits and wild mushrooms"
+console.log(getDescription('01230')); // "Growing of citrus fruits and wild mushrooms"
 ```
 
 ## Methods
@@ -41,7 +42,7 @@ console.log(getDescription("01230")); // "Growing of citrus fruits and wild mush
 Usage:
 
 ```js
-const sicList = require("sic-list");
+const sicList = require('sic-list');
 ```
 
 All input is case-insensitive.
@@ -55,9 +56,9 @@ Replaces a description for a given code.
 ```js
 [
   {
-    code: "01210",
-    description: "Growing of white, black and red grapes"
-  }
+    code: '01210',
+    description: 'Growing of white, black and red grapes',
+  },
 ];
 ```
 
