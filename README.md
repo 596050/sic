@@ -4,7 +4,7 @@
 ![Codecov](https://img.shields.io/codecov/c/github/596050/sic?token=555be04c-ccfa-41c4-8b86-d3f887213890)
 
 Maps Standard Industrial Classification (SIC) codes to English descriptions and
-vice versa.
+vice versa. **As of version >=7.0.0 the 'getData' function includes division**
 
 https://www.npmjs.com/package/sic-list
 
