@@ -18,7 +18,7 @@
   },
   "scripts": {
     "build": "webpack --mode production --config ./webpack.production.config.js",
-    "build-dev": "webpack--mode production --config ./webpack.config.js",
+    "build-dev": "webpack --mode development --config ./webpack.config.js",
     "test": "jest"
   },
   "jest": {

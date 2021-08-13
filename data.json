@@ -2,3636 +2,3136 @@
   {
     "code": "01110",
     "description": "Growing of cereals (except rice), leguminous crops and oil seeds",
-    "division": "Agriculture, Forestry and Fishing"
+    "division": 4
   },
-  {
-    "code": "01120",
-    "description": "Growing of rice",
-    "division": "Agriculture, Forestry and Fishing"
-  },
+  { "code": "01120", "description": "Growing of rice", "division": 4 },
   {
     "code": "01130",
     "description": "Growing of vegetables and melons, roots and tubers",
-    "division": "Agriculture, Forestry and Fishing"
+    "division": 4
   },
-  {
-    "code": "01140",
-    "description": "Growing of sugar cane",
-    "division": "Agriculture, Forestry and Fishing"
-  },
-  {
-    "code": "01150",
-    "description": "Growing of tobacco",
-    "division": "Agriculture, Forestry and Fishing"
-  },
-  {
-    "code": "01160",
-    "description": "Growing of fibre crops",
-    "division": "Agriculture, Forestry and Fishing"
-  },
+  { "code": "01140", "description": "Growing of sugar cane", "division": 4 },
+  { "code": "01150", "description": "Growing of tobacco", "division": 4 },
+  { "code": "01160", "description": "Growing of fibre crops", "division": 4 },
   {
     "code": "01190",
     "description": "Growing of other non-perennial crops",
-    "division": "Agriculture, Forestry and Fishing"
+    "division": 4
   },
-  {
-    "code": "01210",
-    "description": "Growing of grapes",
-    "division": "Agriculture, Forestry and Fishing"
-  },
+  { "code": "01210", "description": "Growing of grapes", "division": 4 },
   {
     "code": "01220",
     "description": "Growing of tropical and subtropical fruits",
-    "division": "Agriculture, Forestry and Fishing"
+    "division": 4
   },
-  {
-    "code": "01230",
-    "description": "Growing of citrus fruits",
-    "division": "Agriculture, Forestry and Fishing"
-  },
+  { "code": "01230", "description": "Growing of citrus fruits", "division": 4 },
   {
     "code": "01240",
     "description": "Growing of pome fruits and stone fruits",
-    "division": "Agriculture, Forestry and Fishing"
+    "division": 4
   },
   {
     "code": "01250",
     "description": "Growing of other tree and bush fruits and nuts",
-    "division": "Agriculture, Forestry and Fishing"
+    "division": 4
   },
   {
     "code": "01260",
     "description": "Growing of oleaginous fruits",
-    "division": "Agriculture, Forestry and Fishing"
+    "division": 4
   },
   {
     "code": "01270",
     "description": "Growing of beverage crops",
-    "division": "Agriculture, Forestry and Fishing"
+    "division": 4
   },
   {
     "code": "01280",
     "description": "Growing of spices, aromatic, drug and pharmaceutical crops",
-    "division": "Agriculture, Forestry and Fishing"
+    "division": 4
   },
   {
     "code": "01290",
     "description": "Growing of other perennial crops",
-    "division": "Agriculture, Forestry and Fishing"
+    "division": 4
   },
-  {
-    "code": "01300",
-    "description": "Plant propagation",
-    "division": "Agriculture, Forestry and Fishing"
-  },
-  {
-    "code": "01410",
-    "description": "Raising of dairy cattle",
-    "division": "Agriculture, Forestry and Fishing"
-  },
+  { "code": "01300", "description": "Plant propagation", "division": 4 },
+  { "code": "01410", "description": "Raising of dairy cattle", "division": 4 },
   {
     "code": "01420",
     "description": "Raising of other cattle and buffaloes",
-    "division": "Agriculture, Forestry and Fishing"
+    "division": 4
   },
   {
     "code": "01430",
     "description": "Raising of horses and other equines",
-    "division": "Agriculture, Forestry and Fishing"
+    "division": 4
   },
   {
     "code": "01440",
     "description": "Raising of camels and camelids",
-    "division": "Agriculture, Forestry and Fishing"
+    "division": 4
   },
   {
     "code": "01450",
     "description": "Raising of sheep and goats",
-    "division": "Agriculture, Forestry and Fishing"
+    "division": 4
   },
-  {
-    "code": "01460",
-    "description": "Raising of swine/pigs",
-    "division": "Agriculture, Forestry and Fishing"
-  },
-  {
-    "code": "01470",
-    "description": "Raising of poultry",
-    "division": "Agriculture, Forestry and Fishing"
-  },
-  {
-    "code": "01490",
-    "description": "Raising of other animals",
-    "division": "Agriculture, Forestry and Fishing"
-  },
-  {
-    "code": "01500",
-    "description": "Mixed farming",
-    "division": "Agriculture, Forestry and Fishing"
-  },
+  { "code": "01460", "description": "Raising of swine/pigs", "division": 4 },
+  { "code": "01470", "description": "Raising of poultry", "division": 4 },
+  { "code": "01490", "description": "Raising of other animals", "division": 4 },
+  { "code": "01500", "description": "Mixed farming", "division": 4 },
   {
     "code": "01610",
     "description": "Support activities for crop production",
-    "division": "Agriculture, Forestry and Fishing"
+    "division": 4
   },
   {
     "code": "01621",
     "description": "Farm animal boarding and care",
-    "division": "Agriculture, Forestry and Fishing"
+    "division": 4
   },
   {
     "code": "01629",
     "description": "Support activities for animal production (other than farm animal boarding and care) n.e.c.",
-    "division": "Agriculture, Forestry and Fishing"
+    "division": 4
   },
   {
     "code": "01630",
     "description": "Post-harvest crop activities",
-    "division": "Agriculture, Forestry and Fishing"
+    "division": 4
   },
   {
     "code": "01640",
     "description": "Seed processing for propagation",
-    "division": "Agriculture, Forestry and Fishing"
+    "division": 4
   },
   {
     "code": "01700",
     "description": "Hunting, trapping and related service activities",
-    "division": "Agriculture, Forestry and Fishing"
+    "division": 4
   },
   {
     "code": "02100",
     "description": "Silviculture and other forestry activities",
-    "division": "Agriculture, Forestry and Fishing"
+    "division": 4
   },
-  {
-    "code": "02200",
-    "description": "Logging",
-    "division": "Agriculture, Forestry and Fishing"
-  },
+  { "code": "02200", "description": "Logging", "division": 4 },
   {
     "code": "02300",
     "description": "Gathering of wild growing non-wood products",
-    "division": "Agriculture, Forestry and Fishing"
+    "division": 4
   },
   {
     "code": "02400",
     "description": "Support services to forestry",
-    "division": "Agriculture, Forestry and Fishing"
+    "division": 4
   },
-  {
-    "code": "03110",
-    "description": "Marine fishing",
-    "division": "Agriculture, Forestry and Fishing"
-  },
-  {
-    "code": "03120",
-    "description": "Freshwater fishing",
-    "division": "Agriculture, Forestry and Fishing"
-  },
-  {
-    "code": "03210",
-    "description": "Marine aquaculture",
-    "division": "Agriculture, Forestry and Fishing"
-  },
-  {
-    "code": "03220",
-    "description": "Freshwater aquaculture",
-    "division": "Agriculture, Forestry and Fishing"
-  },
-  {
-    "code": "05101",
-    "description": "Deep coal mines",
-    "division": "Mining and Quarrying"
-  },
-  {
-    "code": "05102",
-    "description": "Open cast coal working",
-    "division": "Mining and Quarrying"
-  },
-  {
-    "code": "05200",
-    "description": "Mining of lignite",
-    "division": "Mining and Quarrying"
-  },
+  { "code": "03110", "description": "Marine fishing", "division": 4 },
+  { "code": "03120", "description": "Freshwater fishing", "division": 4 },
+  { "code": "03210", "description": "Marine aquaculture", "division": 4 },
+  { "code": "03220", "description": "Freshwater aquaculture", "division": 4 },
+  { "code": "05101", "description": "Deep coal mines", "division": 13 },
+  { "code": "05102", "description": "Open cast coal working", "division": 13 },
+  { "code": "05200", "description": "Mining of lignite", "division": 13 },
   {
     "code": "06100",
     "description": "Extraction of crude petroleum",
-    "division": "Mining and Quarrying"
+    "division": 13
   },
   {
     "code": "06200",
     "description": "Extraction of natural gas",
-    "division": "Mining and Quarrying"
+    "division": 13
   },
-  {
-    "code": "07100",
-    "description": "Mining of iron ores",
-    "division": "Mining and Quarrying"
-  },
+  { "code": "07100", "description": "Mining of iron ores", "division": 13 },
   {
     "code": "07210",
     "description": "Mining of uranium and thorium ores",
-    "division": "Mining and Quarrying"
+    "division": 13
   },
   {
     "code": "07290",
     "description": "Mining of other non-ferrous metal ores",
-    "division": "Mining and Quarrying"
+    "division": 13
   },
   {
     "code": "08110",
     "description": "Quarrying of ornamental and building stone, limestone, gypsum, chalk and slate",
-    "division": "Mining and Quarrying"
+    "division": 13
   },
   {
     "code": "08120",
     "description": "Operation of gravel and sand pits; mining of clays and kaolin",
-    "division": "Mining and Quarrying"
+    "division": 13
   },
   {
     "code": "08910",
     "description": "Mining of chemical and fertilizer minerals",
-    "division": "Mining and Quarrying"
+    "division": 13
   },
-  {
-    "code": "08920",
-    "description": "Extraction of peat",
-    "division": "Mining and Quarrying"
-  },
-  {
-    "code": "08930",
-    "description": "Extraction of salt",
-    "division": "Mining and Quarrying"
-  },
+  { "code": "08920", "description": "Extraction of peat", "division": 13 },
+  { "code": "08930", "description": "Extraction of salt", "division": 13 },
   {
     "code": "08990",
     "description": "Other mining and quarrying n.e.c.",
-    "division": "Mining and Quarrying"
+    "division": 13
   },
   {
     "code": "09100",
     "description": "Support activities for petroleum and natural gas mining",
-    "division": "Mining and Quarrying"
+    "division": 13
   },
   {
     "code": "09900",
     "description": "Support activities for other mining and quarrying",
-    "division": "Mining and Quarrying"
+    "division": 13
   },
   {
     "code": "10110",
     "description": "Processing and preserving of meat",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "10120",
     "description": "Processing and preserving of poultry meat",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "10130",
     "description": "Production of meat and poultry meat products",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "10200",
     "description": "Processing and preserving of fish, crustaceans and molluscs",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "10310",
     "description": "Processing and preserving of potatoes",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "10320",
     "description": "Manufacture of fruit and vegetable juice",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "10390",
     "description": "Other processing and preserving of fruit and vegetables",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "10410",
     "description": "Manufacture of oils and fats",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "10420",
     "description": "Manufacture of margarine and similar edible fats",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "10511",
     "description": "Liquid milk and cream production",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "10512",
     "description": "Butter and cheese production",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "10519",
     "description": "Manufacture of other milk products",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "10520",
     "description": "Manufacture of ice cream",
-    "division": "Manufacturing"
+    "division": 12
   },
-  {
-    "code": "10611",
-    "description": "Grain milling",
-    "division": "Manufacturing"
-  },
+  { "code": "10611", "description": "Grain milling", "division": 12 },
   {
     "code": "10612",
     "description": "Manufacture of breakfast cereals and cereals-based food",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "10620",
     "description": "Manufacture of starches and starch products",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "10710",
     "description": "Manufacture of bread; manufacture of fresh pastry goods and cakes",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "10720",
     "description": "Manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "10730",
     "description": "Manufacture of macaroni, noodles, couscous and similar farinaceous products",
-    "division": "Manufacturing"
+    "division": 12
   },
-  {
-    "code": "10810",
-    "description": "Manufacture of sugar",
-    "division": "Manufacturing"
-  },
+  { "code": "10810", "description": "Manufacture of sugar", "division": 12 },
   {
     "code": "10821",
     "description": "Manufacture of cocoa and chocolate confectionery",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "10822",
     "description": "Manufacture of sugar confectionery",
-    "division": "Manufacturing"
+    "division": 12
   },
-  {
-    "code": "10831",
-    "description": "Tea processing",
-    "division": "Manufacturing"
-  },
+  { "code": "10831", "description": "Tea processing", "division": 12 },
   {
     "code": "10832",
     "description": "Production of coffee and coffee substitutes",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "10840",
     "description": "Manufacture of condiments and seasonings",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "10850",
     "description": "Manufacture of prepared meals and dishes",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "10860",
     "description": "Manufacture of homogenized food preparations and dietetic food",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "10890",
     "description": "Manufacture of other food products n.e.c.",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "10910",
     "description": "Manufacture of prepared feeds for farm animals",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "10920",
     "description": "Manufacture of prepared pet foods",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "11010",
     "description": "Distilling, rectifying and blending of spirits",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "11020",
     "description": "Manufacture of wine from grape",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "11030",
     "description": "Manufacture of cider and other fruit wines",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "11040",
     "description": "Manufacture of other non-distilled fermented beverages",
-    "division": "Manufacturing"
+    "division": 12
   },
-  {
-    "code": "11050",
-    "description": "Manufacture of beer",
-    "division": "Manufacturing"
-  },
-  {
-    "code": "11060",
-    "description": "Manufacture of malt",
-    "division": "Manufacturing"
-  },
+  { "code": "11050", "description": "Manufacture of beer", "division": 12 },
+  { "code": "11060", "description": "Manufacture of malt", "division": 12 },
   {
     "code": "11070",
     "description": "Manufacture of soft drinks; production of mineral waters and other bottled waters",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "12000",
     "description": "Manufacture of tobacco products",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "13100",
     "description": "Preparation and spinning of textile fibres",
-    "division": "Manufacturing"
+    "division": 12
   },
-  {
-    "code": "13200",
-    "description": "Weaving of textiles",
-    "division": "Manufacturing"
-  },
-  {
-    "code": "13300",
-    "description": "Finishing of textiles",
-    "division": "Manufacturing"
-  },
+  { "code": "13200", "description": "Weaving of textiles", "division": 12 },
+  { "code": "13300", "description": "Finishing of textiles", "division": 12 },
   {
     "code": "13910",
     "description": "Manufacture of knitted and crocheted fabrics",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "13921",
     "description": "Manufacture of soft furnishings",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "13922",
     "description": "manufacture of canvas goods, sacks, etc.",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "13923",
     "description": "manufacture of household textiles",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "13931",
     "description": "Manufacture of woven or tufted carpets and rugs",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "13939",
     "description": "Manufacture of other carpets and rugs",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "13940",
     "description": "Manufacture of cordage, rope, twine and netting",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "13950",
     "description": "Manufacture of non-wovens and articles made from non-wovens, except apparel",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "13960",
     "description": "Manufacture of other technical and industrial textiles",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "13990",
     "description": "Manufacture of other textiles n.e.c.",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "14110",
     "description": "Manufacture of leather clothes",
-    "division": "Manufacturing"
+    "division": 12
   },
-  {
-    "code": "14120",
-    "description": "Manufacture of workwear",
-    "division": "Manufacturing"
-  },
+  { "code": "14120", "description": "Manufacture of workwear", "division": 12 },
   {
     "code": "14131",
     "description": "Manufacture of other men's outerwear",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "14132",
     "description": "Manufacture of other women's outerwear",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "14141",
     "description": "Manufacture of men's underwear",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "14142",
     "description": "Manufacture of women's underwear",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "14190",
     "description": "Manufacture of other wearing apparel and accessories n.e.c.",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "14200",
     "description": "Manufacture of articles of fur",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "14310",
     "description": "Manufacture of knitted and crocheted hosiery",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "14390",
     "description": "Manufacture of other knitted and crocheted apparel",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "15110",
     "description": "Tanning and dressing of leather; dressing and dyeing of fur",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "15120",
     "description": "Manufacture of luggage, handbags and the like, saddlery and harness",
-    "division": "Manufacturing"
+    "division": 12
   },
-  {
-    "code": "15200",
-    "description": "Manufacture of footwear",
-    "division": "Manufacturing"
-  },
+  { "code": "15200", "description": "Manufacture of footwear", "division": 12 },
   {
     "code": "16100",
     "description": "Sawmilling and planing of wood",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "16210",
     "description": "Manufacture of veneer sheets and wood-based panels",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "16220",
     "description": "Manufacture of assembled parquet floors",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "16230",
     "description": "Manufacture of other builders' carpentry and joinery",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "16240",
     "description": "Manufacture of wooden containers",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "16290",
     "description": "Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials",
-    "division": "Manufacturing"
+    "division": 12
   },
-  {
-    "code": "17110",
-    "description": "Manufacture of pulp",
-    "division": "Manufacturing"
-  },
+  { "code": "17110", "description": "Manufacture of pulp", "division": 12 },
   {
     "code": "17120",
     "description": "Manufacture of paper and paperboard",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "17211",
     "description": "Manufacture of corrugated paper and paperboard, sacks and bags",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "17219",
     "description": "Manufacture of other paper and paperboard containers",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "17220",
     "description": "Manufacture of household and sanitary goods and of toilet requisites",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "17230",
     "description": "Manufacture of paper stationery",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "17240",
     "description": "Manufacture of wallpaper",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "17290",
     "description": "Manufacture of other articles of paper and paperboard n.e.c.",
-    "division": "Manufacturing"
+    "division": 12
   },
-  {
-    "code": "18110",
-    "description": "Printing of newspapers",
-    "division": "Manufacturing"
-  },
+  { "code": "18110", "description": "Printing of newspapers", "division": 12 },
   {
     "code": "18121",
     "description": "Manufacture of printed labels",
-    "division": "Manufacturing"
+    "division": 12
   },
-  {
-    "code": "18129",
-    "description": "Printing n.e.c.",
-    "division": "Manufacturing"
-  },
+  { "code": "18129", "description": "Printing n.e.c.", "division": 12 },
   {
     "code": "18130",
     "description": "Pre-press and pre-media services",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "18140",
     "description": "Binding and related services",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "18201",
     "description": "Reproduction of sound recording",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "18202",
     "description": "Reproduction of video recording",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "18203",
     "description": "Reproduction of computer media",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "19100",
     "description": "Manufacture of coke oven products",
-    "division": "Manufacturing"
+    "division": 12
   },
-  {
-    "code": "19201",
-    "description": "Mineral oil refining",
-    "division": "Manufacturing"
-  },
+  { "code": "19201", "description": "Mineral oil refining", "division": 12 },
   {
     "code": "19209",
     "description": "Other treatment of petroleum products (excluding petrochemicals manufacture)",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "20110",
     "description": "Manufacture of industrial gases",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "20120",
     "description": "Manufacture of dyes and pigments",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "20130",
     "description": "Manufacture of other inorganic basic chemicals",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "20140",
     "description": "Manufacture of other organic basic chemicals",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "20150",
     "description": "Manufacture of fertilizers and nitrogen compounds",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "20160",
     "description": "Manufacture of plastics in primary forms",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "20170",
     "description": "Manufacture of synthetic rubber in primary forms",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "20200",
     "description": "Manufacture of pesticides and other agrochemical products",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "20301",
     "description": "Manufacture of paints, varnishes and similar coatings, mastics and sealants",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "20302",
     "description": "Manufacture of printing ink",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "20411",
     "description": "Manufacture of soap and detergents",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "20412",
     "description": "Manufacture of cleaning and polishing preparations",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "20420",
     "description": "Manufacture of perfumes and toilet preparations",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "20510",
     "description": "Manufacture of explosives",
-    "division": "Manufacturing"
+    "division": 12
   },
-  {
-    "code": "20520",
-    "description": "Manufacture of glues",
-    "division": "Manufacturing"
-  },
+  { "code": "20520", "description": "Manufacture of glues", "division": 12 },
   {
     "code": "20530",
     "description": "Manufacture of essential oils",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "20590",
     "description": "Manufacture of other chemical products n.e.c.",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "20600",
     "description": "Manufacture of man-made fibres",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "21100",
     "description": "Manufacture of basic pharmaceutical products",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "21200",
     "description": "Manufacture of pharmaceutical preparations",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "22110",
     "description": "Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "22190",
     "description": "Manufacture of other rubber products",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "22210",
     "description": "Manufacture of plastic plates, sheets, tubes and profiles",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "22220",
     "description": "Manufacture of plastic packing goods",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "22230",
     "description": "Manufacture of builders ware of plastic",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "22290",
     "description": "Manufacture of other plastic products",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "23110",
     "description": "Manufacture of flat glass",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "23120",
     "description": "Shaping and processing of flat glass",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "23130",
     "description": "Manufacture of hollow glass",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "23140",
     "description": "Manufacture of glass fibres",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "23190",
     "description": "Manufacture and processing of other glass, including technical glassware",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "23200",
     "description": "Manufacture of refractory products",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "23310",
     "description": "Manufacture of ceramic tiles and flags",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "23320",
     "description": "Manufacture of bricks, tiles and construction products, in baked clay",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "23410",
     "description": "Manufacture of ceramic household and ornamental articles",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "23420",
     "description": "Manufacture of ceramic sanitary fixtures",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "23430",
     "description": "Manufacture of ceramic insulators and insulating fittings",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "23440",
     "description": "Manufacture of other technical ceramic products",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "23490",
     "description": "Manufacture of other ceramic products n.e.c.",
-    "division": "Manufacturing"
+    "division": 12
   },
-  {
-    "code": "23510",
-    "description": "Manufacture of cement",
-    "division": "Manufacturing"
-  },
+  { "code": "23510", "description": "Manufacture of cement", "division": 12 },
   {
     "code": "23520",
     "description": "Manufacture of lime and plaster",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "23610",
     "description": "Manufacture of concrete products for construction purposes",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "23620",
     "description": "Manufacture of plaster products for construction purposes",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "23630",
     "description": "Manufacture of ready-mixed concrete",
-    "division": "Manufacturing"
+    "division": 12
   },
-  {
-    "code": "23640",
-    "description": "Manufacture of mortars",
-    "division": "Manufacturing"
-  },
+  { "code": "23640", "description": "Manufacture of mortars", "division": 12 },
   {
     "code": "23650",
     "description": "Manufacture of fibre cement",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "23690",
     "description": "Manufacture of other articles of concrete, plaster and cement",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "23700",
     "description": "Cutting, shaping and finishing of stone",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "23910",
     "description": "Production of abrasive products",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "23990",
     "description": "Manufacture of other non-metallic mineral products n.e.c.",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "24100",
     "description": "Manufacture of basic iron and steel and of ferro-alloys",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "24200",
     "description": "Manufacture of tubes, pipes, hollow profiles and related fittings, of steel",
-    "division": "Manufacturing"
+    "division": 12
   },
-  {
-    "code": "24310",
-    "description": "Cold drawing of bars",
-    "division": "Manufacturing"
-  },
+  { "code": "24310", "description": "Cold drawing of bars", "division": 12 },
   {
     "code": "24320",
     "description": "Cold rolling of narrow strip",
-    "division": "Manufacturing"
+    "division": 12
   },
-  {
-    "code": "24330",
-    "description": "Cold forming or folding",
-    "division": "Manufacturing"
-  },
-  {
-    "code": "24340",
-    "description": "Cold drawing of wire",
-    "division": "Manufacturing"
-  },
+  { "code": "24330", "description": "Cold forming or folding", "division": 12 },
+  { "code": "24340", "description": "Cold drawing of wire", "division": 12 },
   {
     "code": "24410",
     "description": "Precious metals production",
-    "division": "Manufacturing"
+    "division": 12
   },
-  {
-    "code": "24420",
-    "description": "Aluminium production",
-    "division": "Manufacturing"
-  },
+  { "code": "24420", "description": "Aluminium production", "division": 12 },
   {
     "code": "24430",
     "description": "Lead, zinc and tin production",
-    "division": "Manufacturing"
+    "division": 12
   },
-  {
-    "code": "24440",
-    "description": "Copper production",
-    "division": "Manufacturing"
-  },
+  { "code": "24440", "description": "Copper production", "division": 12 },
   {
     "code": "24450",
     "description": "Other non-ferrous metal production",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "24460",
     "description": "Processing of nuclear fuel",
-    "division": "Manufacturing"
+    "division": 12
   },
-  {
-    "code": "24510",
-    "description": "Casting of iron",
-    "division": "Manufacturing"
-  },
-  {
-    "code": "24520",
-    "description": "Casting of steel",
-    "division": "Manufacturing"
-  },
-  {
-    "code": "24530",
-    "description": "Casting of light metals",
-    "division": "Manufacturing"
-  },
+  { "code": "24510", "description": "Casting of iron", "division": 12 },
+  { "code": "24520", "description": "Casting of steel", "division": 12 },
+  { "code": "24530", "description": "Casting of light metals", "division": 12 },
   {
     "code": "24540",
     "description": "Casting of other non-ferrous metals",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "25110",
     "description": "Manufacture of metal structures and parts of structures",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "25120",
     "description": "Manufacture of doors and windows of metal",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "25210",
     "description": "Manufacture of central heating radiators and boilers",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "25290",
     "description": "Manufacture of other tanks, reservoirs and containers of metal",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "25300",
     "description": "Manufacture of steam generators, except central heating hot water boilers",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "25400",
     "description": "Manufacture of weapons and ammunition",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "25500",
     "description": "Forging, pressing, stamping and roll-forming of metal; powder metallurgy",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "25610",
     "description": "Treatment and coating of metals",
-    "division": "Manufacturing"
+    "division": 12
   },
-  { "code": "25620", "description": "Machining", "division": "Manufacturing" },
-  {
-    "code": "25710",
-    "description": "Manufacture of cutlery",
-    "division": "Manufacturing"
-  },
+  { "code": "25620", "description": "Machining", "division": 12 },
+  { "code": "25710", "description": "Manufacture of cutlery", "division": 12 },
   {
     "code": "25720",
     "description": "Manufacture of locks and hinges",
-    "division": "Manufacturing"
+    "division": 12
   },
-  {
-    "code": "25730",
-    "description": "Manufacture of tools",
-    "division": "Manufacturing"
-  },
+  { "code": "25730", "description": "Manufacture of tools", "division": 12 },
   {
     "code": "25910",
     "description": "Manufacture of steel drums and similar containers",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "25920",
     "description": "Manufacture of light metal packaging",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "25930",
     "description": "Manufacture of wire products, chain and springs",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "25940",
     "description": "Manufacture of fasteners and screw machine products",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "25990",
     "description": "Manufacture of other fabricated metal products n.e.c.",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "26110",
     "description": "Manufacture of electronic components",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "26120",
     "description": "Manufacture of loaded electronic boards",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "26200",
     "description": "Manufacture of computers and peripheral equipment",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "26301",
     "description": "Manufacture of telegraph and telephone apparatus and equipment",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "26309",
     "description": "Manufacture of communication equipment other than telegraph, and telephone apparatus and equipment",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "26400",
     "description": "Manufacture of consumer electronics",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "26511",
     "description": "Manufacture of electronic measuring, testing etc. equipment, not for industrial process control",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "26512",
     "description": "Manufacture of electronic industrial process control equipment",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "26513",
     "description": "Manufacture of non-electronic measuring, testing etc. equipment, not for industrial process control",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "26514",
     "description": "Manufacture of non-electronic industrial process control equipment",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "26520",
     "description": "Manufacture of watches and clocks",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "26600",
     "description": "Manufacture of irradiation, electromedical and electrotherapeutic equipment",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "26701",
     "description": "Manufacture of optical precision instruments",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "26702",
     "description": "Manufacture of photographic and cinematographic equipment",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "26800",
     "description": "Manufacture of magnetic and optical media",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "27110",
     "description": "Manufacture of electric motors, generators and transformers",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "27120",
     "description": "Manufacture of electricity distribution and control apparatus",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "27200",
     "description": "Manufacture of batteries and accumulators",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "27310",
     "description": "Manufacture of fibre optic cables",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "27320",
     "description": "Manufacture of other electronic and electric wires and cables",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "27330",
     "description": "Manufacture of wiring devices",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "27400",
     "description": "Manufacture of electric lighting equipment",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "27510",
     "description": "Manufacture of electric domestic appliances",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "27520",
     "description": "Manufacture of non-electric domestic appliances",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "27900",
     "description": "Manufacture of other electrical equipment",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "28110",
     "description": "Manufacture of engines and turbines, except aircraft, vehicle and cycle engines",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "28120",
     "description": "Manufacture of fluid power equipment",
-    "division": "Manufacturing"
+    "division": 12
   },
-  {
-    "code": "28131",
-    "description": "Manufacture of pumps",
-    "division": "Manufacturing"
-  },
+  { "code": "28131", "description": "Manufacture of pumps", "division": 12 },
   {
     "code": "28132",
     "description": "Manufacture of compressors",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "28140",
     "description": "Manufacture of taps and valves",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "28150",
     "description": "Manufacture of bearings, gears, gearing and driving elements",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "28210",
     "description": "Manufacture of ovens, furnaces and furnace burners",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "28220",
     "description": "Manufacture of lifting and handling equipment",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "28230",
     "description": "Manufacture of office machinery and equipment (except computers and peripheral equipment)",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "28240",
     "description": "Manufacture of power-driven hand tools",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "28250",
     "description": "Manufacture of non-domestic cooling and ventilation equipment",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "28290",
     "description": "Manufacture of other general-purpose machinery n.e.c.",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "28301",
     "description": "Manufacture of agricultural tractors",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "28302",
     "description": "Manufacture of agricultural and forestry machinery other than tractors",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "28410",
     "description": "Manufacture of metal forming machinery",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "28490",
     "description": "Manufacture of other machine tools",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "28910",
     "description": "Manufacture of machinery for metallurgy",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "28921",
     "description": "Manufacture of machinery for mining",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "28922",
     "description": "Manufacture of earthmoving equipment",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "28923",
     "description": "Manufacture of equipment for concrete crushing and screening and roadworks",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "28930",
     "description": "Manufacture of machinery for food, beverage and tobacco processing",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "28940",
     "description": "Manufacture of machinery for textile, apparel and leather production",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "28950",
     "description": "Manufacture of machinery for paper and paperboard production",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "28960",
     "description": "Manufacture of plastics and rubber machinery",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "28990",
     "description": "Manufacture of other special-purpose machinery n.e.c.",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "29100",
     "description": "Manufacture of motor vehicles",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "29201",
     "description": "Manufacture of bodies (coachwork) for motor vehicles (except caravans)",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "29202",
     "description": "Manufacture of trailers and semi-trailers",
-    "division": "Manufacturing"
+    "division": 12
   },
-  {
-    "code": "29203",
-    "description": "Manufacture of caravans",
-    "division": "Manufacturing"
-  },
+  { "code": "29203", "description": "Manufacture of caravans", "division": 12 },
   {
     "code": "29310",
     "description": "Manufacture of electrical and electronic equipment for motor vehicles and their engines",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "29320",
     "description": "Manufacture of other parts and accessories for motor vehicles",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "30110",
     "description": "Building of ships and floating structures",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "30120",
     "description": "Building of pleasure and sporting boats",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "30200",
     "description": "Manufacture of railway locomotives and rolling stock",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "30300",
     "description": "Manufacture of air and spacecraft and related machinery",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "30400",
     "description": "Manufacture of military fighting vehicles",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "30910",
     "description": "Manufacture of motorcycles",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "30920",
     "description": "Manufacture of bicycles and invalid carriages",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "30990",
     "description": "Manufacture of other transport equipment n.e.c.",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "31010",
     "description": "Manufacture of office and shop furniture",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "31020",
     "description": "Manufacture of kitchen furniture",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "31030",
     "description": "Manufacture of mattresses",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "31090",
     "description": "Manufacture of other furniture",
-    "division": "Manufacturing"
+    "division": 12
   },
-  {
-    "code": "32110",
-    "description": "Striking of coins",
-    "division": "Manufacturing"
-  },
+  { "code": "32110", "description": "Striking of coins", "division": 12 },
   {
     "code": "32120",
     "description": "Manufacture of jewellery and related articles",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "32130",
     "description": "Manufacture of imitation jewellery and related articles",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "32200",
     "description": "Manufacture of musical instruments",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "32300",
     "description": "Manufacture of sports goods",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "32401",
     "description": "Manufacture of professional and arcade games and toys",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "32409",
     "description": "Manufacture of other games and toys, n.e.c.",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "32500",
     "description": "Manufacture of medical and dental instruments and supplies",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "32910",
     "description": "Manufacture of brooms and brushes",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "32990",
     "description": "Other manufacturing n.e.c.",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "33110",
     "description": "Repair of fabricated metal products",
-    "division": "Manufacturing"
+    "division": 12
   },
-  {
-    "code": "33120",
-    "description": "Repair of machinery",
-    "division": "Manufacturing"
-  },
+  { "code": "33120", "description": "Repair of machinery", "division": 12 },
   {
     "code": "33130",
     "description": "Repair of electronic and optical equipment",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "33140",
     "description": "Repair of electrical equipment",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "33150",
     "description": "Repair and maintenance of ships and boats",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "33160",
     "description": "Repair and maintenance of aircraft and spacecraft",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "33170",
     "description": "Repair and maintenance of other transport equipment n.e.c.",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "33190",
     "description": "Repair of other equipment",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "33200",
     "description": "Installation of industrial machinery and equipment",
-    "division": "Manufacturing"
+    "division": 12
   },
   {
     "code": "35110",
     "description": "Production of electricity",
-    "division": "Electricity, gas, steam and air conditioning supply"
+    "division": 8
   },
   {
     "code": "35120",
     "description": "Transmission of electricity",
-    "division": "Electricity, gas, steam and air conditioning supply"
+    "division": 8
   },
   {
     "code": "35130",
     "description": "Distribution of electricity",
-    "division": "Electricity, gas, steam and air conditioning supply"
+    "division": 8
   },
-  {
-    "code": "35140",
-    "description": "Trade of electricity",
-    "division": "Electricity, gas, steam and air conditioning supply"
-  },
-  {
-    "code": "35210",
-    "description": "Manufacture of gas",
-    "division": "Electricity, gas, steam and air conditioning supply"
-  },
+  { "code": "35140", "description": "Trade of electricity", "division": 8 },
+  { "code": "35210", "description": "Manufacture of gas", "division": 8 },
   {
     "code": "35220",
     "description": "Distribution of gaseous fuels through mains",
-    "division": "Electricity, gas, steam and air conditioning supply"
+    "division": 8
   },
   {
     "code": "35230",
     "description": "Trade of gas through mains",
-    "division": "Electricity, gas, steam and air conditioning supply"
+    "division": 8
   },
   {
     "code": "35300",
     "description": "Steam and air conditioning supply",
-    "division": "Electricity, gas, steam and air conditioning supply"
+    "division": 8
   },
   {
     "code": "36000",
     "description": "Water collection, treatment and supply",
-    "division": "Water supply, sewerage, waste management and remediation activities"
+    "division": 19
   },
-  {
-    "code": "37000",
-    "description": "Sewerage",
-    "division": "Water supply, sewerage, waste management and remediation activities"
-  },
+  { "code": "37000", "description": "Sewerage", "division": 19 },
   {
     "code": "38110",
     "description": "Collection of non-hazardous waste",
-    "division": "Water supply, sewerage, waste management and remediation activities"
+    "division": 19
   },
   {
     "code": "38120",
     "description": "Collection of hazardous waste",
-    "division": "Water supply, sewerage, waste management and remediation activities"
+    "division": 19
   },
   {
     "code": "38210",
     "description": "Treatment and disposal of non-hazardous waste",
-    "division": "Water supply, sewerage, waste management and remediation activities"
+    "division": 19
   },
   {
     "code": "38220",
     "description": "Treatment and disposal of hazardous waste",
-    "division": "Water supply, sewerage, waste management and remediation activities"
+    "division": 19
   },
-  {
-    "code": "38310",
-    "description": "Dismantling of wrecks",
-    "division": "Water supply, sewerage, waste management and remediation activities"
-  },
+  { "code": "38310", "description": "Dismantling of wrecks", "division": 19 },
   {
     "code": "38320",
     "description": "Recovery of sorted materials",
-    "division": "Water supply, sewerage, waste management and remediation activities"
+    "division": 19
   },
   {
     "code": "39000",
     "description": "Remediation activities and other waste management services",
-    "division": "Water supply, sewerage, waste management and remediation activities"
+    "division": 19
   },
   {
     "code": "41100",
     "description": "Development of building projects",
-    "division": "Construction"
+    "division": 6
   },
   {
     "code": "41201",
     "description": "Construction of commercial buildings",
-    "division": "Construction"
+    "division": 6
   },
   {
     "code": "41202",
     "description": "Construction of domestic buildings",
-    "division": "Construction"
+    "division": 6
   },
   {
     "code": "42110",
     "description": "Construction of roads and motorways",
-    "division": "Construction"
+    "division": 6
   },
   {
     "code": "42120",
     "description": "Construction of railways and underground railways",
-    "division": "Construction"
+    "division": 6
   },
   {
     "code": "42130",
     "description": "Construction of bridges and tunnels",
-    "division": "Construction"
+    "division": 6
   },
   {
     "code": "42210",
     "description": "Construction of utility projects for fluids",
-    "division": "Construction"
+    "division": 6
   },
   {
     "code": "42220",
     "description": "Construction of utility projects for electricity and telecommunications",
-    "division": "Construction"
+    "division": 6
   },
   {
     "code": "42910",
     "description": "Construction of water projects",
-    "division": "Construction"
+    "division": 6
   },
   {
     "code": "42990",
     "description": "Construction of other civil engineering projects n.e.c.",
-    "division": "Construction"
+    "division": 6
   },
-  { "code": "43110", "description": "Demolition", "division": "Construction" },
-  {
-    "code": "43120",
-    "description": "Site preparation",
-    "division": "Construction"
-  },
-  {
-    "code": "43130",
-    "description": "Test drilling and boring",
-    "division": "Construction"
-  },
-  {
-    "code": "43210",
-    "description": "Electrical installation",
-    "division": "Construction"
-  },
+  { "code": "43110", "description": "Demolition", "division": 6 },
+  { "code": "43120", "description": "Site preparation", "division": 6 },
+  { "code": "43130", "description": "Test drilling and boring", "division": 6 },
+  { "code": "43210", "description": "Electrical installation", "division": 6 },
   {
     "code": "43220",
     "description": "Plumbing, heat and air-conditioning installation",
-    "division": "Construction"
+    "division": 6
   },
   {
     "code": "43290",
     "description": "Other construction installation",
-    "division": "Construction"
+    "division": 6
   },
-  { "code": "43310", "description": "Plastering", "division": "Construction" },
-  {
-    "code": "43320",
-    "description": "Joinery installation",
-    "division": "Construction"
-  },
-  {
-    "code": "43330",
-    "description": "Floor and wall covering",
-    "division": "Construction"
-  },
-  { "code": "43341", "description": "Painting", "division": "Construction" },
-  { "code": "43342", "description": "Glazing", "division": "Construction" },
+  { "code": "43310", "description": "Plastering", "division": 6 },
+  { "code": "43320", "description": "Joinery installation", "division": 6 },
+  { "code": "43330", "description": "Floor and wall covering", "division": 6 },
+  { "code": "43341", "description": "Painting", "division": 6 },
+  { "code": "43342", "description": "Glazing", "division": 6 },
   {
     "code": "43390",
     "description": "Other building completion and finishing",
-    "division": "Construction"
+    "division": 6
   },
-  {
-    "code": "43910",
-    "description": "Roofing activities",
-    "division": "Construction"
-  },
-  {
-    "code": "43991",
-    "description": "Scaffold erection",
-    "division": "Construction"
-  },
+  { "code": "43910", "description": "Roofing activities", "division": 6 },
+  { "code": "43991", "description": "Scaffold erection", "division": 6 },
   {
     "code": "43999",
     "description": "Other specialised construction activities n.e.c.",
-    "division": "Construction"
+    "division": 6
   },
   {
     "code": "45111",
     "description": "Sale of new cars and light motor vehicles",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "45112",
     "description": "Sale of used cars and light motor vehicles",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "45190",
     "description": "Sale of other motor vehicles",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "45200",
     "description": "Maintenance and repair of motor vehicles",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "45310",
     "description": "Wholesale trade of motor vehicle parts and accessories",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "45320",
     "description": "Retail trade of motor vehicle parts and accessories",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "45400",
     "description": "Sale, maintenance and repair of motorcycles and related parts and accessories",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46110",
     "description": "Agents selling agricultural raw materials, livestock, textile raw materials and semi-finished goods",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46120",
     "description": "Agents involved in the sale of fuels, ores, metals and industrial chemicals",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46130",
     "description": "Agents involved in the sale of timber and building materials",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46140",
     "description": "Agents involved in the sale of machinery, industrial equipment, ships and aircraft",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46150",
     "description": "Agents involved in the sale of furniture, household goods, hardware and ironmongery",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46160",
     "description": "Agents involved in the sale of textiles, clothing, fur, footwear and leather goods",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46170",
     "description": "Agents involved in the sale of food, beverages and tobacco",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46180",
     "description": "Agents specialised in the sale of other particular products",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46190",
     "description": "Agents involved in the sale of a variety of goods",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46210",
     "description": "Wholesale of grain, unmanufactured tobacco, seeds and animal feeds",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46220",
     "description": "Wholesale of flowers and plants",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46230",
     "description": "Wholesale of live animals",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46240",
     "description": "Wholesale of hides, skins and leather",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46310",
     "description": "Wholesale of fruit and vegetables",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46320",
     "description": "Wholesale of meat and meat products",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46330",
     "description": "Wholesale of dairy products, eggs and edible oils and fats",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46341",
     "description": "Wholesale of fruit and vegetable juices, mineral water and soft drinks",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46342",
     "description": "Wholesale of wine, beer, spirits and other alcoholic beverages",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46350",
     "description": "Wholesale of tobacco products",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46360",
     "description": "Wholesale of sugar and chocolate and sugar confectionery",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46370",
     "description": "Wholesale of coffee, tea, cocoa and spices",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46380",
     "description": "Wholesale of other food, including fish, crustaceans and molluscs",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46390",
     "description": "Non-specialised wholesale of food, beverages and tobacco",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
-  {
-    "code": "46410",
-    "description": "Wholesale of textiles",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
-  },
+  { "code": "46410", "description": "Wholesale of textiles", "division": 20 },
   {
     "code": "46420",
     "description": "Wholesale of clothing and footwear",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46431",
     "description": "Wholesale of audio tapes, records, CDs and video tapes and the equipment on which these are played",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46439",
     "description": "Wholesale of radio, television goods & electrical household appliances (other than records, tapes, CD's & video tapes and the equipment used for playing them)",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46440",
     "description": "Wholesale of china and glassware and cleaning materials",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46450",
     "description": "Wholesale of perfume and cosmetics",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46460",
     "description": "Wholesale of pharmaceutical goods",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46470",
     "description": "Wholesale of furniture, carpets and lighting equipment",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46480",
     "description": "Wholesale of watches and jewellery",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46491",
     "description": "Wholesale of musical instruments",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46499",
     "description": "Wholesale of household goods (other than musical instruments) n.e.c",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46510",
     "description": "Wholesale of computers, computer peripheral equipment and software",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46520",
     "description": "Wholesale of electronic and telecommunications equipment and parts",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46610",
     "description": "Wholesale of agricultural machinery, equipment and supplies",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46620",
     "description": "Wholesale of machine tools",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46630",
     "description": "Wholesale of mining, construction and civil engineering machinery",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46640",
     "description": "Wholesale of machinery for the textile industry and of sewing and knitting machines",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46650",
     "description": "Wholesale of office furniture",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46660",
     "description": "Wholesale of other office machinery and equipment",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46690",
     "description": "Wholesale of other machinery and equipment",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46711",
     "description": "Wholesale of petroleum and petroleum products",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46719",
     "description": "Wholesale of other fuels and related products",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46720",
     "description": "Wholesale of metals and metal ores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46730",
     "description": "Wholesale of wood, construction materials and sanitary equipment",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46740",
     "description": "Wholesale of hardware, plumbing and heating equipment and supplies",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46750",
     "description": "Wholesale of chemical products",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46760",
     "description": "Wholesale of other intermediate products",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46770",
     "description": "Wholesale of waste and scrap",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "46900",
     "description": "Non-specialised wholesale trade",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47110",
     "description": "Retail sale in non-specialised stores with food, beverages or tobacco predominating",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47190",
     "description": "Other retail sale in non-specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47210",
     "description": "Retail sale of fruit and vegetables in specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47220",
     "description": "Retail sale of meat and meat products in specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47230",
     "description": "Retail sale of fish, crustaceans and molluscs in specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47240",
     "description": "Retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47250",
     "description": "Retail sale of beverages in specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47260",
     "description": "Retail sale of tobacco products in specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47290",
     "description": "Other retail sale of food in specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47300",
     "description": "Retail sale of automotive fuel in specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47410",
     "description": "Retail sale of computers, peripheral units and software in specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47421",
     "description": "Retail sale of mobile telephones",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47429",
     "description": "Retail sale of telecommunications equipment other than mobile telephones",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47430",
     "description": "Retail sale of audio and video equipment in specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47510",
     "description": "Retail sale of textiles in specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47520",
     "description": "Retail sale of hardware, paints and glass in specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47530",
     "description": "Retail sale of carpets, rugs, wall and floor coverings in specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47540",
     "description": "Retail sale of electrical household appliances in specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47591",
     "description": "Retail sale of musical instruments and scores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47599",
     "description": "Retail of furniture, lighting, and similar (not musical instruments or scores) in specialised store",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47610",
     "description": "Retail sale of books in specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47620",
     "description": "Retail sale of newspapers and stationery in specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47630",
     "description": "Retail sale of music and video recordings in specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47640",
     "description": "Retail sale of sports goods, fishing gear, camping goods, boats and bicycles",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47650",
     "description": "Retail sale of games and toys in specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47710",
     "description": "Retail sale of clothing in specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47721",
     "description": "Retail sale of footwear in specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47722",
     "description": "Retail sale of leather goods in specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47730",
     "description": "Dispensing chemist in specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47741",
     "description": "Retail sale of hearing aids",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47749",
     "description": "Retail sale of medical and orthopaedic goods in specialised stores (not incl. hearing aids) n.e.c.",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47750",
     "description": "Retail sale of cosmetic and toilet articles in specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47760",
     "description": "Retail sale of flowers, plants, seeds, fertilizers, pet animals and pet food in specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47770",
     "description": "Retail sale of watches and jewellery in specialised stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47781",
     "description": "Retail sale in commercial art galleries",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47782",
     "description": "Retail sale by opticians",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47789",
     "description": "Other retail sale of new goods in specialised stores (not commercial art galleries and opticians)",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47791",
     "description": "Retail sale of antiques including antique books in stores",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47799",
     "description": "Retail sale of other second-hand goods in stores (not incl. antiques)",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47810",
     "description": "Retail sale via stalls and markets of food, beverages and tobacco products",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47820",
     "description": "Retail sale via stalls and markets of textiles, clothing and footwear",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47890",
     "description": "Retail sale via stalls and markets of other goods",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47910",
     "description": "Retail sale via mail order houses or via Internet",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "47990",
     "description": "Other retail sale not in stores, stalls or markets",
-    "division": "Wholesale and retail trade; repair of motor vehicles and motorcycles"
+    "division": 20
   },
   {
     "code": "49100",
     "description": "Passenger rail transport, interurban",
-    "division": "Transportation and storage"
+    "division": 18
   },
-  {
-    "code": "49200",
-    "description": "Freight rail transport",
-    "division": "Transportation and storage"
-  },
+  { "code": "49200", "description": "Freight rail transport", "division": 18 },
   {
     "code": "49311",
     "description": "Urban and suburban passenger railway transportation by underground, metro and similar systems",
-    "division": "Transportation and storage"
+    "division": 18
   },
   {
     "code": "49319",
     "description": "Other urban, suburban or metropolitan passenger land transport (not underground, metro or similar)",
-    "division": "Transportation and storage"
+    "division": 18
   },
-  {
-    "code": "49320",
-    "description": "Taxi operation",
-    "division": "Transportation and storage"
-  },
+  { "code": "49320", "description": "Taxi operation", "division": 18 },
   {
     "code": "49390",
     "description": "Other passenger land transport",
-    "division": "Transportation and storage"
+    "division": 18
   },
   {
     "code": "49410",
     "description": "Freight transport by road",
-    "division": "Transportation and storage"
+    "division": 18
   },
-  {
-    "code": "49420",
-    "description": "Removal services",
-    "division": "Transportation and storage"
-  },
-  {
-    "code": "49500",
-    "description": "Transport via pipeline",
-    "division": "Transportation and storage"
-  },
+  { "code": "49420", "description": "Removal services", "division": 18 },
+  { "code": "49500", "description": "Transport via pipeline", "division": 18 },
   {
     "code": "50100",
     "description": "Sea and coastal passenger water transport",
-    "division": "Transportation and storage"
+    "division": 18
   },
   {
     "code": "50200",
     "description": "Sea and coastal freight water transport",
-    "division": "Transportation and storage"
+    "division": 18
   },
   {
     "code": "50300",
     "description": "Inland passenger water transport",
-    "division": "Transportation and storage"
+    "division": 18
   },
   {
     "code": "50400",
     "description": "Inland freight water transport",
-    "division": "Transportation and storage"
+    "division": 18
   },
   {
     "code": "51101",
     "description": "Scheduled passenger air transport",
-    "division": "Transportation and storage"
+    "division": 18
   },
   {
     "code": "51102",
     "description": "Non-scheduled passenger air transport",
-    "division": "Transportation and storage"
+    "division": 18
   },
-  {
-    "code": "51210",
-    "description": "Freight air transport",
-    "division": "Transportation and storage"
-  },
-  {
-    "code": "51220",
-    "description": "Space transport",
-    "division": "Transportation and storage"
-  },
+  { "code": "51210", "description": "Freight air transport", "division": 18 },
+  { "code": "51220", "description": "Space transport", "division": 18 },
   {
     "code": "52101",
     "description": "Operation of warehousing and storage facilities for water transport activities",
-    "division": "Transportation and storage"
+    "division": 18
   },
   {
     "code": "52102",
     "description": "Operation of warehousing and storage facilities for air transport activities",
-    "division": "Transportation and storage"
+    "division": 18
   },
   {
     "code": "52103",
     "description": "Operation of warehousing and storage facilities for land transport activities",
-    "division": "Transportation and storage"
+    "division": 18
   },
   {
     "code": "52211",
     "description": "Operation of rail freight terminals",
-    "division": "Transportation and storage"
+    "division": 18
   },
   {
     "code": "52212",
     "description": "Operation of rail passenger facilities at railway stations",
-    "division": "Transportation and storage"
+    "division": 18
   },
   {
     "code": "52213",
     "description": "Operation of bus and coach passenger facilities at bus and coach stations",
-    "division": "Transportation and storage"
+    "division": 18
   },
   {
     "code": "52219",
     "description": "Other service activities incidental to land transportation, n.e.c.",
-    "division": "Transportation and storage"
+    "division": 18
   },
   {
     "code": "52220",
     "description": "Service activities incidental to water transportation",
-    "division": "Transportation and storage"
+    "division": 18
   },
   {
     "code": "52230",
     "description": "Service activities incidental to air transportation",
-    "division": "Transportation and storage"
+    "division": 18
   },
   {
     "code": "52241",
     "description": "Cargo handling for water transport activities",
-    "division": "Transportation and storage"
+    "division": 18
   },
   {
     "code": "52242",
     "description": "Cargo handling for air transport activities",
-    "division": "Transportation and storage"
+    "division": 18
   },
   {
     "code": "52243",
     "description": "Cargo handling for land transport activities",
-    "division": "Transportation and storage"
+    "division": 18
   },
   {
     "code": "52290",
     "description": "Other transportation support activities",
-    "division": "Transportation and storage"
+    "division": 18
   },
   {
     "code": "53100",
     "description": "Postal activities under universal service obligation",
-    "division": "Transportation and storage"
+    "division": 18
   },
-  {
-    "code": "53201",
-    "description": "Licensed carriers",
-    "division": "Transportation and storage"
-  },
-  {
-    "code": "53202",
-    "description": "Unlicensed carriers",
-    "division": "Transportation and storage"
-  },
+  { "code": "53201", "description": "Licensed carriers", "division": 18 },
+  { "code": "53202", "description": "Unlicensed carriers", "division": 18 },
   {
     "code": "55100",
     "description": "Hotels and similar accommodation",
-    "division": "Accommodation and food service activities"
+    "division": 0
   },
   {
     "code": "55201",
     "description": "Holiday centres and villages",
-    "division": "Accommodation and food service activities"
+    "division": 0
   },
-  {
-    "code": "55202",
-    "description": "Youth hostels",
-    "division": "Accommodation and food service activities"
-  },
+  { "code": "55202", "description": "Youth hostels", "division": 0 },
   {
     "code": "55209",
     "description": "Other holiday and other collective accommodation",
-    "division": "Accommodation and food service activities"
+    "division": 0
   },
   {
     "code": "55300",
     "description": "Recreational vehicle parks, trailer parks and camping grounds",
-    "division": "Accommodation and food service activities"
+    "division": 0
   },
-  {
-    "code": "55900",
-    "description": "Other accommodation",
-    "division": "Accommodation and food service activities"
-  },
-  {
-    "code": "56101",
-    "description": "Licenced restaurants",
-    "division": "Accommodation and food service activities"
-  },
+  { "code": "55900", "description": "Other accommodation", "division": 0 },
+  { "code": "56101", "description": "Licenced restaurants", "division": 0 },
   {
     "code": "56102",
     "description": "Unlicenced restaurants and cafes",
-    "division": "Accommodation and food service activities"
+    "division": 0
   },
   {
     "code": "56103",
     "description": "Take-away food shops and mobile food stands",
-    "division": "Accommodation and food service activities"
+    "division": 0
   },
   {
     "code": "56210",
     "description": "Event catering activities",
-    "division": "Accommodation and food service activities"
+    "division": 0
   },
-  {
-    "code": "56290",
-    "description": "Other food services",
-    "division": "Accommodation and food service activities"
-  },
-  {
-    "code": "56301",
-    "description": "Licenced clubs",
-    "division": "Accommodation and food service activities"
-  },
-  {
-    "code": "56302",
-    "description": "Public houses and bars",
-    "division": "Accommodation and food service activities"
-  },
-  {
-    "code": "58110",
-    "description": "Book publishing",
-    "division": "Information and communication"
-  },
+  { "code": "56290", "description": "Other food services", "division": 0 },
+  { "code": "56301", "description": "Licenced clubs", "division": 0 },
+  { "code": "56302", "description": "Public houses and bars", "division": 0 },
+  { "code": "58110", "description": "Book publishing", "division": 11 },
   {
     "code": "58120",
     "description": "Publishing of directories and mailing lists",
-    "division": "Information and communication"
+    "division": 11
   },
   {
     "code": "58130",
     "description": "Publishing of newspapers",
-    "division": "Information and communication"
+    "division": 11
   },
   {
     "code": "58141",
     "description": "Publishing of learned journals",
-    "division": "Information and communication"
+    "division": 11
   },
   {
     "code": "58142",
     "description": "Publishing of consumer and business journals and periodicals",
-    "division": "Information and communication"
+    "division": 11
   },
   {
     "code": "58190",
     "description": "Other publishing activities",
-    "division": "Information and communication"
+    "division": 11
   },
   {
     "code": "58210",
     "description": "Publishing of computer games",
-    "division": "Information and communication"
+    "division": 11
   },
   {
     "code": "58290",
     "description": "Other software publishing",
-    "division": "Information and communication"
+    "division": 11
   },
   {
     "code": "59111",
     "description": "Motion picture production activities",
-    "division": "Information and communication"
+    "division": 11
   },
   {
     "code": "59112",
     "description": "Video production activities",
-    "division": "Information and communication"
+    "division": 11
   },
   {
     "code": "59113",
     "description": "Television programme production activities",
-    "division": "Information and communication"
+    "division": 11
   },
   {
     "code": "59120",
     "description": "Motion picture, video and television programme post-production activities",
-    "division": "Information and communication"
+    "division": 11
   },
   {
     "code": "59131",
     "description": "Motion picture distribution activities",
-    "division": "Information and communication"
+    "division": 11
   },
   {
     "code": "59132",
     "description": "Video distribution activities",
-    "division": "Information and communication"
+    "division": 11
   },
   {
     "code": "59133",
     "description": "Television programme distribution activities",
-    "division": "Information and communication"
+    "division": 11
   },
   {
     "code": "59140",
     "description": "Motion picture projection activities",
-    "division": "Information and communication"
+    "division": 11
   },
   {
     "code": "59200",
     "description": "Sound recording and music publishing activities",
-    "division": "Information and communication"
+    "division": 11
   },
-  {
-    "code": "60100",
-    "description": "Radio broadcasting",
-    "division": "Information and communication"
-  },
+  { "code": "60100", "description": "Radio broadcasting", "division": 11 },
   {
     "code": "60200",
     "description": "Television programming and broadcasting activities",
-    "division": "Information and communication"
+    "division": 11
   },
   {
     "code": "61100",
     "description": "Wired telecommunications activities",
-    "division": "Information and communication"
+    "division": 11
   },
   {
     "code": "61200",
     "description": "Wireless telecommunications activities",
-    "division": "Information and communication"
+    "division": 11
   },
   {
     "code": "61300",
     "description": "Satellite telecommunications activities",
-    "division": "Information and communication"
+    "division": 11
   },
   {
     "code": "61900",
     "description": "Other telecommunications activities",
-    "division": "Information and communication"
+    "division": 11
   },
   {
     "code": "62011",
     "description": "Ready-made interactive leisure and entertainment software development",
-    "division": "Information and communication"
+    "division": 11
   },
   {
     "code": "62012",
     "description": "Business and domestic software development",
-    "division": "Information and communication"
+    "division": 11
   },
   {
     "code": "62020",
     "description": "Information technology consultancy activities",
-    "division": "Information and communication"
+    "division": 11
   },
   {
     "code": "62030",
     "description": "Computer facilities management activities",
-    "division": "Information and communication"
+    "division": 11
   },
   {
     "code": "62090",
     "description": "Other information technology service activities",
-    "division": "Information and communication"
+    "division": 11
   },
   {
     "code": "63110",
     "description": "Data processing, hosting and related activities",
-    "division": "Information and communication"
+    "division": 11
   },
-  {
-    "code": "63120",
-    "description": "Web portals",
-    "division": "Information and communication"
-  },
-  {
-    "code": "63910",
-    "description": "News agency activities",
-    "division": "Information and communication"
-  },
+  { "code": "63120", "description": "Web portals", "division": 11 },
+  { "code": "63910", "description": "News agency activities", "division": 11 },
   {
     "code": "63990",
     "description": "Other information service activities n.e.c.",
-    "division": "Information and communication"
+    "division": 11
   },
-  {
-    "code": "64110",
-    "description": "Central banking",
-    "division": "Financial and insurance activities"
-  },
-  {
-    "code": "64191",
-    "description": "Banks",
-    "division": "Financial and insurance activities"
-  },
-  {
-    "code": "64192",
-    "description": "Building societies",
-    "division": "Financial and insurance activities"
-  },
+  { "code": "64110", "description": "Central banking", "division": 9 },
+  { "code": "64191", "description": "Banks", "division": 9 },
+  { "code": "64192", "description": "Building societies", "division": 9 },
   {
     "code": "64201",
     "description": "Activities of agricultural holding companies",
-    "division": "Financial and insurance activities"
+    "division": 9
   },
   {
     "code": "64202",
     "description": "Activities of production holding companies",
-    "division": "Financial and insurance activities"
+    "division": 9
   },
   {
     "code": "64203",
     "description": "Activities of construction holding companies",
-    "division": "Financial and insurance activities"
+    "division": 9
   },
   {
     "code": "64204",
     "description": "Activities of distribution holding companies",
-    "division": "Financial and insurance activities"
+    "division": 9
   },
   {
     "code": "64205",
     "description": "Activities of financial services holding companies",
-    "division": "Financial and insurance activities"
+    "division": 9
   },
   {
     "code": "64209",
     "description": "Activities of other holding companies n.e.c.",
-    "division": "Financial and insurance activities"
+    "division": 9
   },
   {
     "code": "64301",
     "description": "Activities of investment trusts",
-    "division": "Financial and insurance activities"
+    "division": 9
   },
   {
     "code": "64302",
     "description": "Activities of unit trusts",
-    "division": "Financial and insurance activities"
+    "division": 9
   },
   {
     "code": "64303",
     "description": "Activities of venture and development capital companies",
-    "division": "Financial and insurance activities"
+    "division": 9
   },
   {
     "code": "64304",
     "description": "Activities of open-ended investment companies",
-    "division": "Financial and insurance activities"
+    "division": 9
   },
   {
     "code": "64305",
     "description": "Activities of property unit trusts",
-    "division": "Financial and insurance activities"
+    "division": 9
   },
   {
     "code": "64306",
     "description": "Activities of real estate investment trusts",
-    "division": "Financial and insurance activities"
+    "division": 9
   },
-  {
-    "code": "64910",
-    "description": "Financial leasing",
-    "division": "Financial and insurance activities"
-  },
+  { "code": "64910", "description": "Financial leasing", "division": 9 },
   {
     "code": "64921",
     "description": "Credit granting by non-deposit taking finance houses and other specialist consumer credit grantors",
-    "division": "Financial and insurance activities"
+    "division": 9
   },
   {
     "code": "64922",
     "description": "Activities of mortgage finance companies",
-    "division": "Financial and insurance activities"
+    "division": 9
   },
   {
     "code": "64929",
     "description": "Other credit granting n.e.c.",
-    "division": "Financial and insurance activities"
+    "division": 9
   },
   {
     "code": "64991",
     "description": "Security dealing on own account",
-    "division": "Financial and insurance activities"
+    "division": 9
   },
-  {
-    "code": "64992",
-    "description": "Factoring",
-    "division": "Financial and insurance activities"
-  },
+  { "code": "64992", "description": "Factoring", "division": 9 },
   {
     "code": "64999",
     "description": "Financial intermediation not elsewhere classified",
-    "division": "Financial and insurance activities"
+    "division": 9
   },
-  {
-    "code": "65110",
-    "description": "Life insurance",
-    "division": "Financial and insurance activities"
-  },
-  {
-    "code": "65120",
-    "description": "Non-life insurance",
-    "division": "Financial and insurance activities"
-  },
-  {
-    "code": "65201",
-    "description": "Life reinsurance",
-    "division": "Financial and insurance activities"
-  },
-  {
-    "code": "65202",
-    "description": "Non-life reinsurance",
-    "division": "Financial and insurance activities"
-  },
-  {
-    "code": "65300",
-    "description": "Pension funding",
-    "division": "Financial and insurance activities"
-  },
+  { "code": "65110", "description": "Life insurance", "division": 9 },
+  { "code": "65120", "description": "Non-life insurance", "division": 9 },
+  { "code": "65201", "description": "Life reinsurance", "division": 9 },
+  { "code": "65202", "description": "Non-life reinsurance", "division": 9 },
+  { "code": "65300", "description": "Pension funding", "division": 9 },
   {
     "code": "66110",
     "description": "Administration of financial markets",
-    "division": "Financial and insurance activities"
+    "division": 9
   },
   {
     "code": "66120",
     "description": "Security and commodity contracts dealing activities",
-    "division": "Financial and insurance activities"
+    "division": 9
   },
   {
     "code": "66190",
     "description": "Activities auxiliary to financial intermediation n.e.c.",
-    "division": "Financial and insurance activities"
+    "division": 9
   },
   {
     "code": "66210",
     "description": "Risk and damage evaluation",
-    "division": "Financial and insurance activities"
+    "division": 9
   },
   {
     "code": "66220",
     "description": "Activities of insurance agents and brokers",
-    "division": "Financial and insurance activities"
+    "division": 9
   },
   {
     "code": "66290",
     "description": "Other activities auxiliary to insurance and pension funding",
-    "division": "Financial and insurance activities"
+    "division": 9
   },
   {
     "code": "66300",
     "description": "Fund management activities",
-    "division": "Financial and insurance activities"
+    "division": 9
   },
   {
     "code": "68100",
     "description": "Buying and selling of own real estate",
-    "division": "Real estate activities"
+    "division": 17
   },
   {
     "code": "68201",
     "description": "Renting and operating of Housing Association real estate",
-    "division": "Real estate activities"
+    "division": 17
   },
   {
     "code": "68202",
     "description": "Letting and operating of conference and exhibition centres",
-    "division": "Real estate activities"
+    "division": 17
   },
   {
     "code": "68209",
     "description": "Other letting and operating of own or leased real estate",
-    "division": "Real estate activities"
+    "division": 17
   },
-  {
-    "code": "68310",
-    "description": "Real estate agencies",
-    "division": "Real estate activities"
-  },
+  { "code": "68310", "description": "Real estate agencies", "division": 17 },
   {
     "code": "68320",
     "description": "Management of real estate on a fee or contract basis",
-    "division": "Real estate activities"
+    "division": 17
   },
-  {
-    "code": "69101",
-    "description": "Barristers at law",
-    "division": "Professional, scientific and technical activities"
-  },
-  {
-    "code": "69102",
-    "description": "Solicitors",
-    "division": "Professional, scientific and technical activities"
-  },
+  { "code": "69101", "description": "Barristers at law", "division": 15 },
+  { "code": "69102", "description": "Solicitors", "division": 15 },
   {
     "code": "69109",
     "description": "Activities of patent and copyright agents; other legal activities n.e.c.",
-    "division": "Professional, scientific and technical activities"
+    "division": 15
   },
   {
     "code": "69201",
     "description": "Accounting and auditing activities",
-    "division": "Professional, scientific and technical activities"
+    "division": 15
   },
-  {
-    "code": "69202",
-    "description": "Bookkeeping activities",
-    "division": "Professional, scientific and technical activities"
-  },
-  {
-    "code": "69203",
-    "description": "Tax consultancy",
-    "division": "Professional, scientific and technical activities"
-  },
+  { "code": "69202", "description": "Bookkeeping activities", "division": 15 },
+  { "code": "69203", "description": "Tax consultancy", "division": 15 },
   {
     "code": "70100",
     "description": "Activities of head offices",
-    "division": "Professional, scientific and technical activities"
+    "division": 15
   },
   {
     "code": "70210",
     "description": "Public relations and communications activities",
-    "division": "Professional, scientific and technical activities"
+    "division": 15
   },
-  {
-    "code": "70221",
-    "description": "Financial management",
-    "division": "Professional, scientific and technical activities"
-  },
+  { "code": "70221", "description": "Financial management", "division": 15 },
   {
     "code": "70229",
     "description": "Management consultancy activities other than financial management",
-    "division": "Professional, scientific and technical activities"
+    "division": 15
   },
   {
     "code": "71111",
     "description": "Architectural activities",
-    "division": "Professional, scientific and technical activities"
+    "division": 15
   },
   {
     "code": "71112",
     "description": "Urban planning and landscape architectural activities",
-    "division": "Professional, scientific and technical activities"
+    "division": 15
   },
   {
     "code": "71121",
     "description": "Engineering design activities for industrial process and production",
-    "division": "Professional, scientific and technical activities"
+    "division": 15
   },
   {
     "code": "71122",
     "description": "Engineering related scientific and technical consulting activities",
-    "division": "Professional, scientific and technical activities"
+    "division": 15
   },
   {
     "code": "71129",
     "description": "Other engineering activities",
-    "division": "Professional, scientific and technical activities"
+    "division": 15
   },
   {
     "code": "71200",
     "description": "Technical testing and analysis",
-    "division": "Professional, scientific and technical activities"
+    "division": 15
   },
   {
     "code": "72110",
     "description": "Research and experimental development on biotechnology",
-    "division": "Professional, scientific and technical activities"
+    "division": 15
   },
   {
     "code": "72190",
     "description": "Other research and experimental development on natural sciences and engineering",
-    "division": "Professional, scientific and technical activities"
+    "division": 15
   },
   {
     "code": "72200",
     "description": "Research and experimental development on social sciences and humanities",
-    "division": "Professional, scientific and technical activities"
+    "division": 15
   },
-  {
-    "code": "73110",
-    "description": "Advertising agencies",
-    "division": "Professional, scientific and technical activities"
-  },
+  { "code": "73110", "description": "Advertising agencies", "division": 15 },
   {
     "code": "73120",
     "description": "Media representation services",
-    "division": "Professional, scientific and technical activities"
+    "division": 15
   },
   {
     "code": "73200",
     "description": "Market research and public opinion polling",
-    "division": "Professional, scientific and technical activities"
+    "division": 15
   },
   {
     "code": "74100",
     "description": "specialised design activities",
-    "division": "Professional, scientific and technical activities"
+    "division": 15
   },
   {
     "code": "74201",
     "description": "Portrait photographic activities",
-    "division": "Professional, scientific and technical activities"
+    "division": 15
   },
   {
     "code": "74202",
     "description": "Other specialist photography",
-    "division": "Professional, scientific and technical activities"
+    "division": 15
   },
-  {
-    "code": "74203",
-    "description": "Film processing",
-    "division": "Professional, scientific and technical activities"
-  },
+  { "code": "74203", "description": "Film processing", "division": 15 },
   {
     "code": "74209",
     "description": "Photographic activities not elsewhere classified",
-    "division": "Professional, scientific and technical activities"
+    "division": 15
   },
   {
     "code": "74300",
     "description": "Translation and interpretation activities",
-    "division": "Professional, scientific and technical activities"
+    "division": 15
   },
   {
     "code": "74901",
     "description": "Environmental consulting activities",
-    "division": "Professional, scientific and technical activities"
+    "division": 15
   },
   {
     "code": "74902",
     "description": "Quantity surveying activities",
-    "division": "Professional, scientific and technical activities"
+    "division": 15
   },
   {
     "code": "74909",
     "description": "Other professional, scientific and technical activities n.e.c.",
-    "division": "Professional, scientific and technical activities"
+    "division": 15
   },
-  {
-    "code": "74990",
-    "description": "Non-trading company",
-    "division": "Professional, scientific and technical activities"
-  },
-  {
-    "code": "75000",
-    "description": "Veterinary activities",
-    "division": "Professional, scientific and technical activities"
-  },
+  { "code": "74990", "description": "Non-trading company", "division": 15 },
+  { "code": "75000", "description": "Veterinary activities", "division": 15 },
   {
     "code": "77110",
     "description": "Renting and leasing of cars and light motor vehicles",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "77120",
     "description": "Renting and leasing of trucks and other heavy vehicles",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "77210",
     "description": "Renting and leasing of recreational and sports goods",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "77220",
     "description": "Renting of video tapes and disks",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "77291",
     "description": "Renting and leasing of media entertainment equipment",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "77299",
     "description": "Renting and leasing of other personal and household goods",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "77310",
     "description": "Renting and leasing of agricultural machinery and equipment",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "77320",
     "description": "Renting and leasing of construction and civil engineering machinery and equipment",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "77330",
     "description": "Renting and leasing of office machinery and equipment (including computers)",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "77341",
     "description": "Renting and leasing of passenger water transport equipment",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "77342",
     "description": "Renting and leasing of freight water transport equipment",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "77351",
     "description": "Renting and leasing of air passenger transport equipment",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "77352",
     "description": "Renting and leasing of freight air transport equipment",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "77390",
     "description": "Renting and leasing of other machinery, equipment and tangible goods n.e.c.",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "77400",
     "description": "Leasing of intellectual property and similar products, except copyright works",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "78101",
     "description": "Motion picture, television and other theatrical casting activities",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "78109",
     "description": "Other activities of employment placement agencies",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "78200",
     "description": "Temporary employment agency activities",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "78300",
     "description": "Human resources provision and management of human resources functions",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
-  {
-    "code": "79110",
-    "description": "Travel agency activities",
-    "division": "Administrative and support service activities"
-  },
-  {
-    "code": "79120",
-    "description": "Tour operator activities",
-    "division": "Administrative and support service activities"
-  },
+  { "code": "79110", "description": "Travel agency activities", "division": 3 },
+  { "code": "79120", "description": "Tour operator activities", "division": 3 },
   {
     "code": "79901",
     "description": "Activities of tourist guides",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "79909",
     "description": "Other reservation service activities n.e.c.",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "80100",
     "description": "Private security activities",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "80200",
     "description": "Security systems service activities",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
-  {
-    "code": "80300",
-    "description": "Investigation activities",
-    "division": "Administrative and support service activities"
-  },
+  { "code": "80300", "description": "Investigation activities", "division": 3 },
   {
     "code": "81100",
     "description": "Combined facilities support activities",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "81210",
     "description": "General cleaning of buildings",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
-  {
-    "code": "81221",
-    "description": "Window cleaning services",
-    "division": "Administrative and support service activities"
-  },
+  { "code": "81221", "description": "Window cleaning services", "division": 3 },
   {
     "code": "81222",
     "description": "Specialised cleaning services",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "81223",
     "description": "Furnace and chimney cleaning services",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "81229",
     "description": "Other building and industrial cleaning activities",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "81291",
     "description": "Disinfecting and exterminating services",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
-  {
-    "code": "81299",
-    "description": "Other cleaning services",
-    "division": "Administrative and support service activities"
-  },
+  { "code": "81299", "description": "Other cleaning services", "division": 3 },
   {
     "code": "81300",
     "description": "Landscape service activities",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "82110",
     "description": "Combined office administrative service activities",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "82190",
     "description": "Photocopying, document preparation and other specialised office support activities",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "82200",
     "description": "Activities of call centres",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "82301",
     "description": "Activities of exhibition and fair organisers",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "82302",
     "description": "Activities of conference organisers",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "82911",
     "description": "Activities of collection agencies",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "82912",
     "description": "Activities of credit bureaus",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
-  {
-    "code": "82920",
-    "description": "Packaging activities",
-    "division": "Administrative and support service activities"
-  },
+  { "code": "82920", "description": "Packaging activities", "division": 3 },
   {
     "code": "82990",
     "description": "Other business support service activities n.e.c.",
-    "division": "Administrative and support service activities"
+    "division": 3
   },
   {
     "code": "84110",
     "description": "General public administration activities",
-    "division": "Public administration and defence; compulsory social security"
+    "division": 16
   },
   {
     "code": "84120",
     "description": "Regulation of health care, education, cultural and other social services, not incl. social security",
-    "division": "Public administration and defence; compulsory social security"
+    "division": 16
   },
   {
     "code": "84130",
     "description": "Regulation of and contribution to more efficient operation of businesses",
-    "division": "Public administration and defence; compulsory social security"
+    "division": 16
   },
-  {
-    "code": "84210",
-    "description": "Foreign affairs",
-    "division": "Public administration and defence; compulsory social security"
-  },
-  {
-    "code": "84220",
-    "description": "Defence activities",
-    "division": "Public administration and defence; compulsory social security"
-  },
+  { "code": "84210", "description": "Foreign affairs", "division": 16 },
+  { "code": "84220", "description": "Defence activities", "division": 16 },
   {
     "code": "84230",
     "description": "Justice and judicial activities",
-    "division": "Public administration and defence; compulsory social security"
+    "division": 16
   },
   {
     "code": "84240",
     "description": "Public order and safety activities",
-    "division": "Public administration and defence; compulsory social security"
+    "division": 16
   },
-  {
-    "code": "84250",
-    "description": "Fire service activities",
-    "division": "Public administration and defence; compulsory social security"
-  },
+  { "code": "84250", "description": "Fire service activities", "division": 16 },
   {
     "code": "84300",
     "description": "Compulsory social security activities",
-    "division": "Public administration and defence; compulsory social security"
+    "division": 16
   },
-  {
-    "code": "85100",
-    "description": "Pre-primary education",
-    "division": "Education"
-  },
-  {
-    "code": "85200",
-    "description": "Primary education",
-    "division": "Education"
-  },
+  { "code": "85100", "description": "Pre-primary education", "division": 7 },
+  { "code": "85200", "description": "Primary education", "division": 7 },
   {
     "code": "85310",
     "description": "General secondary education",
-    "division": "Education"
+    "division": 7
   },
   {
     "code": "85320",
     "description": "Technical and vocational secondary education",
-    "division": "Education"
+    "division": 7
   },
   {
     "code": "85410",
     "description": "Post-secondary non-tertiary education",
-    "division": "Education"
+    "division": 7
   },
   {
     "code": "85421",
     "description": "First-degree level higher education",
-    "division": "Education"
+    "division": 7
   },
   {
     "code": "85422",
     "description": "Post-graduate level higher education",
-    "division": "Education"
+    "division": 7
   },
   {
     "code": "85510",
     "description": "Sports and recreation education",
-    "division": "Education"
+    "division": 7
   },
-  {
-    "code": "85520",
-    "description": "Cultural education",
-    "division": "Education"
-  },
+  { "code": "85520", "description": "Cultural education", "division": 7 },
   {
     "code": "85530",
     "description": "Driving school activities",
-    "division": "Education"
+    "division": 7
   },
-  {
-    "code": "85590",
-    "description": "Other education n.e.c.",
-    "division": "Education"
-  },
+  { "code": "85590", "description": "Other education n.e.c.", "division": 7 },
   {
     "code": "85600",
     "description": "Educational support services",
-    "division": "Education"
+    "division": 7
   },
-  {
-    "code": "86101",
-    "description": "Hospital activities",
-    "division": "Human health and social work activities"
-  },
+  { "code": "86101", "description": "Hospital activities", "division": 10 },
   {
     "code": "86102",
     "description": "Medical nursing home activities",
-    "division": "Human health and social work activities"
+    "division": 10
   },
   {
     "code": "86210",
     "description": "General medical practice activities",
-    "division": "Human health and social work activities"
+    "division": 10
   },
   {
     "code": "86220",
     "description": "Specialists medical practice activities",
-    "division": "Human health and social work activities"
+    "division": 10
   },
   {
     "code": "86230",
     "description": "Dental practice activities",
-    "division": "Human health and social work activities"
+    "division": 10
   },
   {
     "code": "86900",
     "description": "Other human health activities",
-    "division": "Human health and social work activities"
+    "division": 10
   },
   {
     "code": "87100",
     "description": "Residential nursing care facilities",
-    "division": "Human health and social work activities"
+    "division": 10
   },
   {
     "code": "87200",
     "description": "Residential care activities for learning difficulties, mental health and substance abuse",
-    "division": "Human health and social work activities"
+    "division": 10
   },
   {
     "code": "87300",
     "description": "Residential care activities for the elderly and disabled",
-    "division": "Human health and social work activities"
+    "division": 10
   },
   {
     "code": "87900",
     "description": "Other residential care activities n.e.c.",
-    "division": "Human health and social work activities"
+    "division": 10
   },
   {
     "code": "88100",
     "description": "Social work activities without accommodation for the elderly and disabled",
-    "division": "Human health and social work activities"
+    "division": 10
   },
   {
     "code": "88910",
     "description": "Child day-care activities",
-    "division": "Human health and social work activities"
+    "division": 10
   },
   {
     "code": "88990",
     "description": "Other social work activities without accommodation n.e.c.",
-    "division": "Human health and social work activities"
+    "division": 10
   },
-  {
-    "code": "90010",
-    "description": "Performing arts",
-    "division": "Arts, entertainment and recreation"
-  },
+  { "code": "90010", "description": "Performing arts", "division": 5 },
   {
     "code": "90020",
     "description": "Support activities to performing arts",
-    "division": "Arts, entertainment and recreation"
+    "division": 5
   },
-  {
-    "code": "90030",
-    "description": "Artistic creation",
-    "division": "Arts, entertainment and recreation"
-  },
+  { "code": "90030", "description": "Artistic creation", "division": 5 },
   {
     "code": "90040",
     "description": "Operation of arts facilities",
-    "division": "Arts, entertainment and recreation"
+    "division": 5
   },
-  {
-    "code": "91011",
-    "description": "Library activities",
-    "division": "Arts, entertainment and recreation"
-  },
-  {
-    "code": "91012",
-    "description": "Archives activities",
-    "division": "Arts, entertainment and recreation"
-  },
-  {
-    "code": "91020",
-    "description": "Museums activities",
-    "division": "Arts, entertainment and recreation"
-  },
+  { "code": "91011", "description": "Library activities", "division": 5 },
+  { "code": "91012", "description": "Archives activities", "division": 5 },
+  { "code": "91020", "description": "Museums activities", "division": 5 },
   {
     "code": "91030",
     "description": "Operation of historical sites and buildings and similar visitor attractions",
-    "division": "Arts, entertainment and recreation"
+    "division": 5
   },
   {
     "code": "91040",
     "description": "Botanical and zoological gardens and nature reserves activities",
-    "division": "Arts, entertainment and recreation"
+    "division": 5
   },
   {
     "code": "92000",
     "description": "Gambling and betting activities",
-    "division": "Arts, entertainment and recreation"
+    "division": 5
   },
   {
     "code": "93110",
     "description": "Operation of sports facilities",
-    "division": "Arts, entertainment and recreation"
+    "division": 5
   },
   {
     "code": "93120",
     "description": "Activities of sport clubs",
-    "division": "Arts, entertainment and recreation"
+    "division": 5
   },
-  {
-    "code": "93130",
-    "description": "Fitness facilities",
-    "division": "Arts, entertainment and recreation"
-  },
+  { "code": "93130", "description": "Fitness facilities", "division": 5 },
   {
     "code": "93191",
     "description": "Activities of racehorse owners",
-    "division": "Arts, entertainment and recreation"
+    "division": 5
   },
-  {
-    "code": "93199",
-    "description": "Other sports activities",
-    "division": "Arts, entertainment and recreation"
-  },
+  { "code": "93199", "description": "Other sports activities", "division": 5 },
   {
     "code": "93210",
     "description": "Activities of amusement parks and theme parks",
-    "division": "Arts, entertainment and recreation"
+    "division": 5
   },
   {
     "code": "93290",
     "description": "Other amusement and recreation activities n.e.c.",
-    "division": "Arts, entertainment and recreation"
+    "division": 5
   },
   {
     "code": "94110",
     "description": "Activities of business and employers membership organisations",
-    "division": "Other service activities"
+    "division": 14
   },
   {
     "code": "94120",
     "description": "Activities of professional membership organisations",
-    "division": "Other service activities"
+    "division": 14
   },
   {
     "code": "94200",
     "description": "Activities of trade unions",
-    "division": "Other service activities"
+    "division": 14
   },
   {
     "code": "94910",
     "description": "Activities of religious organisations",
-    "division": "Other service activities"
+    "division": 14
   },
   {
     "code": "94920",
     "description": "Activities of political organisations",
-    "division": "Other service activities"
+    "division": 14
   },
   {
     "code": "94990",
     "description": "Activities of other membership organisations n.e.c.",
-    "division": "Other service activities"
+    "division": 14
   },
   {
     "code": "95110",
     "description": "Repair of computers and peripheral equipment",
-    "division": "Other service activities"
+    "division": 14
   },
   {
     "code": "95120",
     "description": "Repair of communication equipment",
-    "division": "Other service activities"
+    "division": 14
   },
   {
     "code": "95210",
     "description": "Repair of consumer electronics",
-    "division": "Other service activities"
+    "division": 14
   },
   {
     "code": "95220",
     "description": "Repair of household appliances and home and garden equipment",
-    "division": "Other service activities"
+    "division": 14
   },
   {
     "code": "95230",
     "description": "Repair of footwear and leather goods",
-    "division": "Other service activities"
+    "division": 14
   },
   {
     "code": "95240",
     "description": "Repair of furniture and home furnishings",
-    "division": "Other service activities"
+    "division": 14
   },
   {
     "code": "95250",
     "description": "Repair of watches, clocks and jewellery",
-    "division": "Other service activities"
+    "division": 14
   },
   {
     "code": "95290",
     "description": "Repair of personal and household goods n.e.c.",
-    "division": "Other service activities"
+    "division": 14
   },
   {
     "code": "96010",
     "description": "Washing and (dry-)cleaning of textile and fur products",
-    "division": "Other service activities"
+    "division": 14
   },
   {
     "code": "96020",
     "description": "Hairdressing and other beauty treatment",
-    "division": "Other service activities"
+    "division": 14
   },
   {
     "code": "96030",
     "description": "Funeral and related activities",
-    "division": "Other service activities"
+    "division": 14
   },
   {
     "code": "96040",
     "description": "Physical well-being activities",
-    "division": "Other service activities"
+    "division": 14
   },
   {
     "code": "96090",
     "description": "Other service activities n.e.c.",
-    "division": "Other service activities"
+    "division": 14
   },
   {
     "code": "97000",
     "description": "Activities of households as employers of domestic personnel",
-    "division": "Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use"
+    "division": 2
   },
   {
     "code": "98000",
     "description": "Residents property management",
-    "division": "Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use"
+    "division": 2
   },
   {
     "code": "98100",
     "description": "Undifferentiated goods-producing activities of private households for own use",
-    "division": "Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use"
+    "division": 2
   },
   {
     "code": "98200",
     "description": "Undifferentiated service-producing activities of private households for own use",
-    "division": "Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use"
+    "division": 2
   },
   {
     "code": "99000",
     "description": "Activities of extraterritorial organisations and bodies",
-    "division": "Activities of extraterritorial organisations and bodies"
+    "division": 1
   },
-  {
-    "code": "99999",
-    "description": "Dormant Company",
-    "division": "Activities of extraterritorial organisations and bodies"
-  }
+  { "code": "99999", "description": "Dormant Company", "division": 1 }
 ]
