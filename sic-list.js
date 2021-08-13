@@ -1,38 +1,47 @@
 "use strict";
 
 import data from "./data.json";
+import divisions from "./divisions.json";
 
 const descriptionMap = {};
 const codeMap = {};
+const divisionMap = {};
 
-const mapCodeAndDescription = item => {
+const mapData = (item) => {
   descriptionMap[item.description.toLowerCase()] = item.code;
   codeMap[item.code] = item.description;
 };
 
-data.forEach(mapCodeAndDescription);
+data.forEach(mapData);
 
-export const getCode = description => descriptionMap[description.toLowerCase()];
+// Codes
+export const getCode = (description) =>
+  descriptionMap[description.toLowerCase()];
 
-export const getCodes = () => data.map(item => item.code);
+export const getCodes = () => data.map((item) => item.code);
 
 export const getCodeList = () => codeMap;
 
-export const getDescription = code => codeMap[String(code)];
+// Descriptions
+export const getDescription = (code) => codeMap[String(code)];
 
-export const getDescriptions = () => data.map(item => item.description);
+export const getDescriptions = () => data.map((item) => item.description);
 
 export const getDescriptionList = () => descriptionMap;
 
+// Divisions
+export const getDivisions = () => divisions;
+
+// General
 export const getData = () => data;
 
-export const overwrite = sicArray => {
+export const overwrite = (sicArray) => {
   if (!sicArray || !sicArray.length) return;
-  sicArray.forEach(sic => {
-    const foundIndex = data.findIndex(item => item.code === String(sic.code));
+  sicArray.forEach((sic) => {
+    const foundIndex = data.findIndex((item) => item.code === String(sic.code));
     if (foundIndex > -1) {
       data[foundIndex] = sic;
-      mapCodeAndDescription(sic);
+      mapData(sic);
     }
   });
 };
